@@ -139,7 +139,7 @@
                         <div class="row">
                             <div class="col-md-3">
                                 <div class="service">
-                                    <img src="{{ asset('assets/frontend/images/images/service4.png') }}" alt="" />
+                                    <img src="{{ asset('assets/frontend/images/service4.png') }}" alt="" />
                                     <h4><span>OUR SERVICE</span></h4>
                                 </div>
                             </div>
