@@ -197,7 +197,7 @@
                                 <div class="recent-news">
                                     <div class="row">
                                         <div class="col-md-5">
-                                            <a class="news-img" href="#" title=""><img src="{{ asset('assets/frontend/images/images/news2.jpg') }}" alt=""></a>
+                                            <a class="news-img" href="#" title=""><img src="{{ asset('assets/frontend/images/news2.jpg') }}" alt=""></a>
                                         </div>
                                         <div class="col-md-7">
                                             <h4><a href="#" title="">Countries with the most billionair</a></h4>
