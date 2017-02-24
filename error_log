@@ -1,0 +1,4 @@
+[21-Sep-2016 09:29:33 America/Chicago] PHP Warning:  require(/home/nphlmavorion/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/nphlmavorion/public_html/index.php on line 22
+[21-Sep-2016 09:29:33 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/nphlmavorion/public_html/../bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nphlmavorion/public_html/index.php on line 22
+[21-Sep-2016 09:29:33 America/Chicago] PHP Warning:  require(/home/nphlmavorion/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/nphlmavorion/public_html/index.php on line 22
+[21-Sep-2016 09:29:33 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/nphlmavorion/public_html/../bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nphlmavorion/public_html/index.php on line 22

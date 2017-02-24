@@ -1,0 +1,3250 @@
+# Webalizer V2.21-02 Incremental Data - 11/16/2016 23:59:42
+2016 11 16 23 59 42
+25783 23227 275 494 143 167 556481396 1472 375 0
+229 25 1913 1 16
+4 3 52968 3 3 3
+92 92 2500390 3 5 2
+3710 2648 51856679 2 105 4
+403 306 6234334 5 11 6
+314 300 11322659 4 23 3
+4 4 71844 2 2 1
+170 170 3710174 4 7 4
+1558 1392 29432575 7 96 11
+655 637 14039000 5 57 7
+650 648 13136520 4 22 9
+175 173 3693410 4 6 3
+4 4 70007 2 3 2
+2 2 44672 1 1 1
+881 870 29217180 22 35 12
+1410 1290 33471432 13 46 9
+15751 14688 357627552 229 1050 298
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+3 3 52489 3
+105 105 2070779 1
+11 5 23696 8
+99 36 369026 70
+194 82 5753512 133
+145 133 7007582 10
+698 678 23819970 39
+1072 1026 21439616 42
+2744 2628 60883633 127
+3005 2619 68659025 121
+2014 1747 44939234 82
+1914 1589 33534288 75
+3426 2880 60956670 128
+726 694 14294806 27
+988 975 19633097 58
+1442 1339 29459448 62
+2144 1914 46236362 186
+1879 1749 38377999 62
+588 540 15336350 59
+1104 1048 23226585 113
+326 318 6948644 11
+1130 1107 30883507 45
+26 12 2575078 10
+0
+0
+0
+23227
+0
+0
+0
+0
+0
+176
+0
+52
+43
+0
+1627
+0
+0
+0
+0
+0
+0
+622
+29
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+# -urls- 
+/assets/frontend/js/jquery.parallax-1.1.3.js
+0 225 0 266299 0 0
+/images/thumbnails/staffmanagement-245-215-1477482335-staff-photo.jpg
+1 1 0 11223 0 0
+/admin/albumsetting/1
+0 1 24879648 1005 0 0
+/admin/albumsetting/2
+0 1 24880128 1007 0 0
+/assets/frontend/js/wow.min.js
+0 226 0 608475 0 0
+/images/thumbnails/staffmanagement-245-200-1477480978-img-0408.jpg
+1 2 0 28326 0 0
+/assets/frontend/js/jquery.counterup.min.js
+0 222 0 225518 0 0
+/
+0 555 0 35760911 277 93
+/stafflist
+0 54 0 827032 2 7
+/images/thumbnails/staffmanagement-295-385-1477482173-staff-photo.jpg
+1 12 0 145550 0 0
+/assets/frontend/img/loader.gif
+1 2 24860976 897456 0 0
+/images/thumbnails/staffmanagement-260-198-1477482173-staff-photo.jpg
+1 1 0 10124 0 0
+/images/thumbnails/staffmanagement-295-385-1477482296-staff-photo.jpg
+1 215 0 4618581 0 0
+/images/thumbnails/staffmanagement-295-385-1477480776-img-0100.jpg
+1 210 0 4061001 0 0
+/assets/frontend/css/style.css
+0 255 0 3036327 0 0
+/images/thumbnails/staffmanagement-245-200-1477480911-staff-photo.jpg
+1 2 0 20288 0 0
+/images/thumbnails/staffmanagement-295-385-1477550965-img-2465.jpg
+1 28 0 720282 0 0
+/assets/frontend/css/blueimp-gallery.css
+0 14 3903838240221691904 30887 0 0
+/images/thumbnails/staffmanagement-245-200-1477483626-jamuna.jpg
+1 2 3256444672871117101 34316 0 0
+/assets/frontend/js/waypoints.min.js
+0 224 3349103821365276530 650388 0 0
+/images/1474542051-service-neuro.jpg
+1 4 24806031251025972 2127279 0 0
+/assets/backend/skins/tinymce/material_design/fonts/tinymce.woff
+0 4 24429344 49664 0 0
+/images/thumbnails/staffmanagement-245-200-1477482488-auther.jpg
+1 2 0 23888 0 0
+/images/thumbnails/departments-260-260-1477054618-service-cardio.jpg
+1 211 0 3796037 0 0
+/images/thumbnails/staffmanagement-295-385-1477481099-staff-photo.jpg
+1 220 0 4117238 0 0
+/images/thumbnails/staffmanagement-295-385-1476767522-staff-photo.png
+1 217 0 6262831 0 0
+/images/thumbnails/staffmanagement-245-200-1477481526-img-2440.jpg
+1 2 0 25054 0 0
+/images/thumbnails/staffmanagement-245-200-1477481628-img-2476.jpg
+1 2 0 29860 0 0
+/images/thumbnails/staffmanagement-245-200-1477481659-img-2488.jpg
+1 2 0 27264 0 0
+/images/thumbnails/staffmanagement-245-200-1477480868-img-0357.jpg
+1 2 0 25156 0 0
+/images/thumbnails/staffmanagement-295-385-1477493758-staff-photo.jpg
+1 219 0 4903421 0 0
+/assets/plugins/uikit/css/uikit.almost-flat.min.css
+0 31 0 493591 0 0
+/assets/backend/js/pages/forms_file_input.min.js
+0 3 0 2357 0 0
+/assets/frontend/js/blueimp-gallery.js
+0 6 0 65314 0 0
+/assets/frontend/css/animate.css
+0 242 0 1101234 0 0
+/images/thumbnails/staffmanagement-245-200-1476769870-staff-photo.png
+1 2 0 4576 0 0
+/images/thumbnails/staffmanagement-295-385-1477482486-jha.jpg
+1 27 0 514398 0 0
+/assets/frontend/js/tether.min.js
+0 228 0 1536166 0 0
+/assets/frontend/js/jquery.mixitup.min.js
+0 225 0 1828471 0 0
+/assets/plugins/datatables-tabletools/swf/copy_csv_xls_pdf.swf
+0 18 0 122765 0 0
+/assets/backend/css/my_theme.min.css.map
+0 1 24866976 1600 0 0
+/images/thumbnails/populartest-262-262-1477485074-placehodertechnolgies.jpg
+1 204 0 4678334 0 0
+/images/thumbnails/staffmanagement-295-385-1478591294-img-2539.jpg
+1 19 0 541427 0 0
+/post/first-news
+0 1 24813696 6939 1 0
+/assets/backend/js/custom/datatables_uikit.min.js
+0 9 0 7459 0 0
+/stafflist/histopathology
+0 3 24815536 18031 0 0
+/assets/plugins//kendo-ui-core/styles/kendo.material.min.css
+0 3 0 35397 0 0
+/api/post
+0 6 0 25311 0 0
+/images/thumbnails/staffmanagement-245-200-1477481540-img-2445.jpg
+1 2 0 28722 0 0
+/assets/frontend/css/meanmenu.min.css
+0 241 0 300467 0 0
+/images/thumbnails/staffmanagement-295-385-1477481350-img-2418.jpg
+1 26 0 435846 0 0
+/images/thumbnails/staffmanagement-245-200-1477492344-img-2352-new.jpg
+1 2 0 18374 0 0
+/images/thumbnails/staffmanagement-245-200-1477481126-staff-photo.jpg
+1 2 0 19112 0 0
+/images/thumbnails/staffmanagement-295-385-1478591428-img-2437.jpg
+1 18 18446744073709551615 446882 0 0
+/images/thumbnails/staffmanagement-245-200-1476786308-staff-photo.png
+1 2 0 4300 0 0
+/assets/frontend/fonts/glyphicons-halflings-regular.ttf
+0 3 24886608 137190 0 0
+/images/thumbnails/staffmanagement-295-385-1477480911-staff-photo.jpg
+1 30 0 465858 0 0
+/images/thumbnails/staffmanagement-245-200-1477483527-nripa.jpg
+1 2 0 20552 0 0
+/images/thumbnails/staffmanagement-245-200-1477482248-doct6.jpg
+1 2 0 18980 0 0
+/admin/post
+0 6 0 30258 0 0
+/images/thumbnails/staffmanagement-245-200-1477481014-staff-photo.jpg
+1 2 24444352 21340 0 0
+/contact-us
+0 23 0 145634 1 4
+/page/online-report
+0 27 0 142660 2 1
+/images/thumbnails/staffmanagement-245-200-1477482486-jha.jpg
+1 2 0 24164 0 0
+/fonts/roboto/Roboto-Regular.woff2
+0 12 0 596143 0 0
+/assets/frontend/fonts/Pe-icon-7-stroke.eot
+0 1 24855344 59066 0 0
+/images/thumbnails/staffmanagement-295-385-1476769870-staff-photo.png
+1 27 0 714820 0 0
+/images/thumbnails/departments-260-260-1477052912-latest-img2.jpg
+1 215 0 5748329 0 0
+/admin/departments/24/edit
+0 1 0 5394 0 0
+/assets/backend/skins/tinymce/material_design/skin.min.css
+0 2 0 12776 0 0
+/images/thumbnails/staffmanagement-295-385-1477493710-nphl2.jpg
+1 217 0 4684111 0 0
+/images/thumbnails/staffmanagement-295-385-1477481480-img-2433.jpg
+1 26 0 496544 0 0
+/uploads/albums/1473752316-blog2-page.jpg
+1 5 0 135731 0 0
+/images/thumbnails/staffmanagement-295-385-1477492344-img-2352-new.jpg
+1 219 0 3563680 0 0
+/images/thumbnails/staffmanagement-245-200-1477481274-staff-photo.jpg
+1 2 0 22538 0 0
+/admin/post/first-news
+0 1 24878288 1009 0 0
+/images/thumbnails/populartest-262-262-1477485177-beckman-coulter-au480.jpg
+1 211 0 4914983 0 0
+/images/thumbnails/staffmanagement-245-200-1477029975-staff-photo.png
+1 2 0 4300 0 0
+/images/thumbnails/staffmanagement-295-385-1477482004-ggg.jpg
+1 27 0 545052 0 0
+/admin/gallerysetting/album-2/create
+0 1 24879872 4879 0 0
+/images/1474874991-color-interface.jpg
+1 15 0 33806456 0 0
+/images/thumbnails/staffmanagement-245-200-1477480999-staff-photo.jpg
+1 2 0 18096 0 0
+/images/thumbnails/staffmanagement-295-385-1477481126-staff-photo.jpg
+1 27 0 399370 0 0
+/images/thumbnails/staffmanagement-295-385-1476786308-staff-photo.png
+1 27 0 714125 0 0
+/images/thumbnails/staffmanagement-245-200-1477483454-doct7.jpg
+1 2 0 29138 0 0
+/images/thumbnails/staffmanagement-245-200-1477481672-img-2505.jpg
+1 2 0 26924 0 0
+/stafflist/datamanagement
+0 3 24815408 16778 0 0
+/stafflist/microbiology
+0 3 24815040 18321 1 0
+/images/thumbnails/staffmanagement-260-198-1477480882-img-0364.jpg
+1 1 0 14085 0 0
+/images/thumbnails/staffmanagement-295-385-1477481014-staff-photo.jpg
+1 214 0 4166296 0 0
+/images/thumbnails/staffmanagement-245-200-1476948241-staff-photo.png
+1 2 0 4300 0 0
+/assets/frontend/fonts/fontawesome-webfont.woff2
+0 29 0 1761464 0 0
+/images/thumbnails/staffmanagement-245-200-1477482154-staff-photo.jpg
+1 2 0 20158 0 0
+/photogallery/detail/1
+0 4 0 22608 0 1
+/photogallery/detail/2
+0 4 0 23094 0 0
+/images/thumbnails/staffmanagement-295-385-1477480849-img-0128.jpg
+1 206 0 5197146 0 0
+/assets/frontend/js/owl.carousel.min.js
+0 225 0 2307866 0 0
+/images/thumbnails/staffmanagement-295-385-1477481799-roshan.jpg
+1 222 0 4819699 0 0
+/uploads/albums/1473752344-blog4-page.jpg
+1 5 0 84133 0 0
+/assets/frontend/js/mdb.min.js
+0 228 0 6648192 0 0
+/images/thumbnails/staffmanagement-245-200-1477481076-staff-photo.jpg
+1 2 0 21268 0 0
+/images/thumbnails/staffmanagement-295-385-1477481646-img-2481.jpg
+1 27 0 589718 0 0
+/images/thumbnails/staffmanagement-245-200-1477482004-ggg.jpg
+1 2 0 25788 0 0
+/images/thumbnails/staffmanagement-295-385-1477481274-staff-photo.jpg
+1 30 0 497586 0 0
+/images/1477485048-placehodertechnolgies.jpg
+1 4 0 113223 0 0
+/images/thumbnails/staffmanagement-295-385-1477029975-staff-photo.png
+1 27 0 714125 0 0
+/assets/frontend/fonts/glyphicons-halflings-regular.woff
+0 27 0 636361 0 0
+/images/thumbnails/staffmanagement-245-200-1477480833-img-0126.jpg
+1 2 0 22258 0 0
+/stafflist/immunology
+0 3 24814704 19355 0 0
+/images/thumbnails/staffmanagement-245-200-1477481822-img-2539.jpg
+1 2 0 28338 0 0
+/images/thumbnails/slider-750-423-1475743105-blog3-page.jpg
+1 216 0 10469762 0 0
+/images/thumbnails/staffmanagement-245-200-1477482053-staff-photo.jpg
+1 2 0 19772 0 0
+/assets/frontend/css/jgallery.min.css
+0 14 0 139093 0 0
+/images/thumbnails/populartest-262-262-1477485133-14807932-1180143632055712-2050688555-o.jpg
+1 212 0 5322235 0 0
+/images/thumbnails/populartest-260-150-1477485104-img-0294-new.jpg
+1 8 0 74068 0 0
+/images/thumbnails/staffmanagement-245-200-1477482299-staff-photo.jpg
+1 2 0 23214 0 0
+/images/thumbnails/staffmanagement-245-200-1474964305-staff-photo.png
+1 2 0 4300 0 0
+/images/thumbnails/departments-260-260-1477053670-img-0350.jpg
+1 214 0 4199486 0 0
+/images/thumbnails/staffmanagement-295-385-1477493819-rm.jpg
+1 27 0 556690 0 0
+/images/thumbnails/staffmanagement-295-385-1477480999-staff-photo.jpg
+1 217 0 4086549 0 0
+/assets/plugins/tinymce/plugins/anchor/plugin.min.js
+0 2 0 1728 0 0
+/fonts/roboto/Roboto-Bold.woff2
+0 3 0 151364 0 0
+/images/thumbnails/populartest-260-150-1477485133-14807932-1180143632055712-2050688555-o.jpg
+1 8 0 90553 0 0
+/images/thumbnails/populartest-260-150-1477485048-placehodertechnolgies.jpg
+1 8 0 88973 0 0
+/assets/plugins/tinymce/plugins/visualblocks/plugin.min.js
+0 2 0 2000 0 0
+/patient_report_central.php
+0 7 0 33611 4 0
+/fonts/roboto/Roboto-Regular.eot
+0 5 0 108775 0 0
+/assets/plugins/datatables-tabletools/js/dataTables.tableTools.js
+0 9 0 68306 0 0
+/images/thumbnails/staffmanagement-245-200-1477493815-rekha.jpg
+1 2 0 25142 0 0
+/images/thumbnails/staffmanagement-295-385-1476948241-staff-photo.png
+1 28 0 745284 0 0
+/images/thumbnails/staffmanagement-245-200-1476946303-staff-photo.png
+1 2 0 4300 0 0
+/images/thumbnails/departments-260-260-1474542051-service-neuro.jpg
+1 216 0 5560839 0 0
+/images/thumbnails/staffmanagement-295-385-1477482154-staff-photo.jpg
+1 31 0 482928 0 0
+/images/thumbnails/staffmanagement-295-385-1477481722-img-2525.jpg
+1 27 0 699198 0 0
+/images/thumbnails/staffmanagement-295-385-1477482418-devaki-acharya.jpg
+1 218 0 4289166 0 0
+/images/thumbnails/staffmanagement-245-200-1477483497-laxmi.jpg
+1 2 0 21184 0 0
+/images/thumbnails/staffmanagement-295-385-1477481076-staff-photo.jpg
+1 223 0 4312334 0 0
+/images/thumbnails/staffmanagement-295-385-1477480882-img-0364.jpg
+1 10 0 152916 0 0
+/uploads/albums/1473831938-doctor-bg.jpg
+1 5 0 678036 0 0
+/assets/frontend/js/jquery.meanmenu.min.js
+0 224 0 397030 0 0
+/assets/backend/img/logo_main_small@2x.png
+1 9 0 6055 0 0
+/images/thumbnails/departments-260-260-1477054258-img-0195.jpg
+1 208 0 3676691 0 0
+/images/thumbnails/staffmanagement-295-385-1477482053-staff-photo.jpg
+1 220 0 3858927 0 0
+/images/thumbnails/staffmanagement-260-198-1477481838-img-2538.jpg
+1 1 0 15353 0 0
+/images/thumbnails/staffmanagement-295-385-1477482299-staff-photo.jpg
+1 27 0 526238 0 0
+/images/thumbnails/staffmanagement-295-385-1474964305-staff-photo.png
+1 27 0 714125 0 0
+/admin/post/create
+0 1 0 5733 0 0
+/images/thumbnails/staffmanagement-260-198-1477481496-img-2437.jpg
+1 1 0 13180 0 0
+/assets/plugins/tinymce/plugins/searchreplace/plugin.min.js
+0 2 0 6348 0 0
+/admin/staffmanagement/154/edit
+0 2 0 11898 0 0
+/stafflist/nbbts
+0 3 24813808 20065 0 0
+/images/thumbnails/staffmanagement-295-385-1477480738-img-0095.jpg
+1 208 0 3873629 0 0
+/images/thumbnails/staffmanagement-245-200-1477481458-saroj.jpg
+1 2 0 22134 0 0
+/assets/plugins/tinymce/plugins/image/plugin.min.js
+0 2 0 6974 0 0
+/images/thumbnails/staffmanagement-260-198-1478590878-3.jpg
+1 1 0 10211 0 0
+/images/thumbnails/staffmanagement-295-385-1477481235-img-2371.jpg
+1 27 0 498155 0 0
+/images/thumbnails/staffmanagement-245-200-1477482088-img-2349-new.jpg
+1 2 0 20162 0 0
+/stafflist/biomedical
+0 3 24814592 17073 0 0
+/images/thumbnails/staffmanagement-245-200-1474969017-staff-photo.png
+1 2 0 4300 0 0
+/images/thumbnails/staffmanagement-245-200-1477481799-roshan.jpg
+1 2 0 23624 0 0
+/images/thumbnails/staffmanagement-295-385-1476946303-staff-photo.png
+1 27 0 714125 0 0
+/stafflist/biochemistry
+0 6 0 36953 0 0
+/images/thumbnails/staffmanagement-295-385-1477492039-appointment-bg.jpg
+1 219 0 4745979 0 0
+/assets/frontend/img/nphlimg/Nepal.png
+1 283 0 5102391 0 0
+/images/thumbnails/staffmanagement-245-215-1477482350-img-2465.jpg
+1 1 0 11918 0 0
+/images/thumbnails/staffmanagement-295-385-1477483527-nripa.jpg
+1 28 0 465282 0 0
+/images/thumbnails/staffmanagement-295-385-1477482248-doct6.jpg
+1 217 0 3804146 0 0
+/assets/backend/js/pages/kendoui.min.js
+0 3 0 10766 0 0
+/images/thumbnails/staffmanagement-245-200-1477482499-nphl4.jpg
+1 2 0 23888 0 0
+/images/thumbnails/staffmanagement-245-200-1477481769-img-2534.jpg
+1 2 0 29508 0 0
+/images/thumbnails/staffmanagement-295-385-1477493701-m.jpg
+1 27 0 535351 0 0
+/assets/frontend/fonts/glyphicons-halflings-regular.woff2
+0 177 0 2990967 0 0
+/images/thumbnails/staffmanagement-245-200-1477481691-img-2508.jpg
+1 2 28015 25672 0 0
+/images/thumbnails/staffmanagement-295-385-1477482088-img-2349-new.jpg
+1 217 3979265820339679790 3478967 0 0
+/images/thumbnails/staffmanagement-295-385-1477480801-img-0107.jpg
+1 212 3346290454658185588 3923947 0 0
+/images/thumbnails/staffmanagement-245-200-1477482501-nphl4.jpg
+1 2 3615886023352004865 23888 0 0
+/assets/backend/css/fileinput.css
+0 10 7881702290525942634 12042 0 0
+/assets/backend/icons/material-design-icons/MaterialIcons-Regular.woff2
+0 10 0 172456 0 0
+/admin/departments/3/edit
+0 4 8286623314361712640 21455 0 0
+/uploads/albums/1474258088-1473752316-blog2-page.jpg
+1 5 0 134263 0 0
+/assets/backend/css/main.min.css
+0 11 0 244904 0 0
+/admin/staffmanagement/155/edit
+0 2 0 15683 0 0
+/images/thumbnails/staffmanagement-245-200-1477480735-ja.jpg
+1 2 0 19902 0 0
+/assets/frontend/js/bootstrap.min.js
+0 227 0 2167700 0 0
+/images/thumbnails/staffmanagement-295-385-1474969017-staff-photo.png
+1 220 0 6306058 0 0
+/images/thumbnails/staffmanagement-295-385-1477481838-img-2538.jpg
+1 10 0 177558 0 0
+/images/thumbnails/staffmanagement-295-385-1477481425-img-2423.jpg
+1 27 0 529964 0 0
+/images/thumbnails/staffmanagement-295-385-1477481151-img-2370.jpg
+1 27 0 630152 0 0
+/images/thumbnails/staffmanagement-295-385-1477481496-img-2437.jpg
+1 10 0 153486 0 0
+/images/thumbnails/populartest-262-262-1477485113-img-0319-new.jpg
+1 212 0 4026147 0 0
+/assets/backend/js/altair_admin_common.min.js
+0 10 0 30758 0 0
+/images/thumbnails/staffmanagement-295-385-1477483454-doct7.jpg
+1 216 0 5426555 0 0
+/assets/backend/js/uikit_custom.min.js
+0 11 0 179517 0 0
+/assets/frontend/js/venobox.min.js
+0 226 0 588231 0 0
+/stafflist/hematology
+0 3 24814816 18007 0 0
+/admin/post/diabetes-patient-care
+0 1 24878064 1009 0 0
+/images/thumbnails/staffmanagement-295-385-1477481591-img-2466.jpg
+1 27 0 615179 0 0
+/images/1477482488-auther.jpg
+1 4 0 44623 0 0
+/images/map-marker.png
+1 9 0 13660 0 0
+/images/page-pictures/1477042454-office.jpg
+1 10 0 5671496 0 0
+/images/thumbnails/slider-750-423-1475743693-slider3.jpg
+1 216 0 9354833 0 0
+/images/thumbnails/staffmanagement-295-385-1477493809-rrr.jpg
+1 27 0 557523 0 0
+/images/thumbnails/staffmanagement-245-200-1477482466-shila.jpg
+1 2 0 19786 0 0
+/images/thumbnails/staffmanagement-295-385-1477482350-img-2465.jpg
+1 28 0 492036 0 0
+/images/thumbnails/staffmanagement-245-200-1477481747-dhana.jpg
+1 2 0 22200 0 0
+/images/thumbnails/staffmanagement-245-200-1477483550-shekhar.jpg
+1 2 0 31524 0 0
+/images/thumbnails/staffmanagement-245-200-1477481291-staff-photo.jpg
+1 2 0 22562 0 0
+/assets/backend/js/pages/forms_wysiwyg.min.js
+0 2 0 2241 0 0
+/archieve
+0 17 0 111268 1 0
+/images/thumbnails/staffmanagement-245-200-1477482036-sanjay-shah.jpg
+1 2 0 23414 0 0
+/assets/plugins/dropify/js/dropify.min.js
+0 3 0 7112 0 0
+/images/thumbnails/staffmanagement-245-200-1477480776-img-0100.jpg
+1 2 0 20744 0 0
+/images/1475734660-about-slide1.jpg
+1 11 0 330759 0 0
+/images/thumbnails/staffmanagement-245-200-1477550965-img-2465.jpg
+1 2 0 31960 0 0
+/assets/plugins/tinymce/themes/modern/theme.min.js
+0 2 0 7966 0 0
+/images/post-pictures/1474623537-gallary-3.jpg
+1 14 0 181154 0 0
+/images/thumbnails/staffmanagement-245-200-1477482281-sunil.jpg
+1 2 0 23562 0 0
+/assets/backend/img/favicon-32x32.png
+1 10 0 8737 0 0
+/admin/staffmanagement/26/edit
+0 2 0 15743 0 0
+/admin/staffmanagement/98/edit
+0 2 0 12040 0 0
+/assets/backend/css/error_page.min.css
+0 22 0 264361 0 0
+/images/thumbnails/staffmanagement-245-200-1477482118-pawan.jpg
+1 2 0 21676 0 0
+/admin/post/publication-1
+0 1 24878944 1002 0 0
+/assets/backend/css/my_theme.min.css
+0 10 0 8577 0 0
+/images/thumbnails/staffmanagement-295-385-1477482171-3.jpg
+1 9 0 124935 0 0
+/post/diabetes-patient-care
+0 1 24815664 5112 0 0
+/assets/frontend/css/venobox.css
+0 254 0 464702 0 0
+/assets/frontend/fonts/fontawesome-webfont.woff
+0 29 0 2337414 0 0
+/images/thumbnails/staffmanagement-245-200-1477493809-rrr.jpg
+1 2 0 25418 0 0
+/images/thumbnails/staffmanagement-295-385-1477493815-rekha.jpg
+1 218 0 4890700 0 0
+/stafflist/aidsandstdcontrol
+0 3 24815792 20524 0 0
+/robots.txt
+0 17 24790368 11541 0 0
+/assets/backend/css/login_page.min.css
+0 6 0 90851 0 0
+/images/thumbnails/staffmanagement-260-198-1478591274-img-2538.jpg
+1 1 0 14793 0 0
+/images/thumbnails/staffmanagement-245-200-1477481097-staff-photo.jpg
+1 2 0 20796 0 0
+/images/thumbnails/staffmanagement-245-200-1477481350-img-2418.jpg
+1 2 0 20726 0 0
+/images/thumbnails/staffmanagement-295-385-1477483497-laxmi.jpg
+1 27 0 464920 0 0
+/images/thumbnails/staffmanagement-295-385-1477481291-staff-photo.jpg
+1 30 0 497815 0 0
+/images/thumbnails/staffmanagement-260-198-1477481306-bimalesh.jpg
+1 1 0 10423 0 0
+/assets/frontend/img/login.png
+1 19 0 339038 0 0
+/page/rate-list
+0 14 0 103762 1 2
+/images/thumbnails/staffmanagement-295-385-1477482036-sanjay-shah.jpg
+1 217 0 4321581 0 0
+/images/thumbnails/staffmanagement-295-385-1477481988-doc1-page.jpg
+1 218 0 3418395 0 0
+/fonts/roboto/Roboto-Medium.eot
+0 5 0 108999 0 0
+/assets/frontend/css/font-awesome.min.css
+0 243 0 1581946 0 0
+/images/thumbnails/staffmanagement-245-200-1477482418-devaki-acharya.jpg
+1 2 0 20622 0 0
+/assets/plugins/tinymce/plugins/responsivefilemanager/plugin.min.js
+0 2 0 2250 0 0
+/stafflist/biosafety
+0 5 0 31740 0 0
+/images/thumbnails/staffmanagement-245-200-1477482400-staff-photo.jpg
+1 2 0 23204 0 0
+/images/thumbnails/staffmanagement-295-385-1477483667-khatiwada.jpg
+1 28 0 713682 0 0
+/images/thumbnails/staffmanagement-295-385-1477481458-saroj.jpg
+1 27 0 493233 0 0
+/admin/staffmanagement/27/edit
+0 2 0 12158 0 0
+/uploads/albums/1474431446-1473769792-gallary-4.jpg
+1 5 0 86894 0 0
+/images/thumbnails/staffmanagement-245-215-1477482363-doct3.jpg
+1 1 0 13649 0 0
+/assets/plugins/tinymce/plugins/print/plugin.min.js
+0 2 0 1311 0 0
+/stafflist/serology
+0 3 24813920 18746 1 0
+/assets/frontend/css/owl.carousel.css
+0 245 0 364511 0 0
+/images/thumbnails/staffmanagement-245-200-1477481480-img-2433.jpg
+1 2 0 24612 0 0
+/favicon.ico
+0 11 0 4604 0 0
+/images/thumbnails/departments-260-260-1477053725-department-placeholder.jpg
+1 216 0 4018396 0 0
+/images/thumbnails/staffmanagement-295-385-1477314722-img-0098.jpg
+1 208 0 4608618 0 0
+/fonts/roboto/Roboto-Light.woff
+0 4 24854128 207686 0 0
+/admin/departments
+0 5 0 28644 0 0
+/images/thumbnails/staffmanagement-295-385-1477481097-staff-photo.jpg
+1 27 0 462643 0 0
+/fonts/roboto/Roboto-Light.eot
+0 5 0 106871 0 0
+/images/thumbnails/staffmanagement-295-385-1477482499-nphl4.jpg
+1 215 0 4513392 0 0
+/images/thumbnails/staffmanagement-295-385-1477493667-m.jpg
+1 221 0 4718085 0 0
+/images/thumbnails/staffmanagement-245-200-1477492039-appointment-bg.jpg
+1 2 0 22758 0 0
+/images/thumbnails/staffmanagement-295-385-1477480818-img-0110.jpg
+1 207 0 4327883 0 0
+/stafflist/nequasunit
+0 3 24814368 18802 0 0
+/assets/backend/js/fileinput.min.js
+0 1 24879408 22004 0 0
+/assets/plugins/kendo-ui/styles/Material/sprite.png
+1 1 0 17209 0 0
+/images/thumbnails/staffmanagement-295-385-1477482501-nphl4.jpg
+1 27 0 513703 0 0
+/images/thumbnails/staffmanagement-295-385-1478591274-img-2538.jpg
+1 19 0 543512 0 0
+/stafflist/directors
+0 4 24814144 26271 0 0
+/admin/staffmanagement/140/edit
+0 2 0 15605 0 0
+/assets/frontend/css/custom.css
+0 242 0 754244 0 0
+/images/thumbnails/staffmanagement-295-385-1477481306-bimalesh.jpg
+1 13 0 145099 0 0
+/images/thumbnails/staffmanagement-295-385-1477482400-staff-photo.jpg
+1 222 0 4837496 0 0
+/images/thumbnails/staffmanagement-245-200-1477480849-img-0128.jpg
+1 2 0 26922 0 0
+/images/thumbnails/staffmanagement-295-385-1477483597-img-2520.jpg
+1 27 0 642181 0 0
+/page/
+0 6 24807008 29779 0 1
+/images/thumbnails/staffmanagement-245-200-1477481124-staff-photo.jpg
+1 2 0 19112 0 0
+/images/thumbnails/staffmanagement-245-200-1476768448-staff-photo.png
+1 2 0 4300 0 0
+/images/thumbnails/staffmanagement-245-200-1477481646-img-2481.jpg
+1 2 0 27922 0 0
+/fonts/roboto/Roboto-Medium.woff2
+0 12 0 608274 0 0
+/assets/frontend/img/pagebanner.jpg
+1 29 0 4750034 0 0
+/assets/plugins/tinymce/plugins/preview/plugin.min.js
+0 2 0 2422 0 0
+/images/thumbnails/staffmanagement-295-385-1477481562-img-2446.jpg
+1 27 0 658488 0 0
+/fonts/roboto/Roboto-Medium.ttf
+0 3 24862448 288751 0 0
+/images/thumbnails/staffmanagement-245-200-1477483648-amar.jpg
+1 2 0 22814 0 0
+/admin/settings
+0 1 24880240 5438 0 0
+/assets/frontend/css/bootstrap.min.css
+0 249 0 4870102 0 0
+/assets/frontend/js/jflickrfeed.min.js
+0 224 0 271383 0 0
+/fonts/roboto/Roboto-Light.woff2
+0 5 0 249101 0 0
+/images/thumbnails/populartest-260-150-1477485074-placehodertechnolgies.jpg
+1 8 0 84048 0 0
+/images/thumbnails/departments-260-260-1474542144-new.jpg
+1 204 0 3782765 0 0
+/fonts/roboto/Roboto-Bold.eot
+0 5 0 107007 0 0
+/images/thumbnails/staffmanagement-295-385-1477482466-shila.jpg
+1 28 0 478194 0 0
+/images/thumbnails/staffmanagement-295-385-1477480978-img-0408.jpg
+1 27 0 609544 0 0
+/assets/plugins/tinymce/plugins/link/plugin.min.js
+0 2 0 4707 0 0
+/assets/plugins/tinymce/plugins/advlist/plugin.min.js
+0 2 0 2221 0 0
+/images/thumbnails/staffmanagement-295-385-1477481747-dhana.jpg
+1 27 0 501076 0 0
+/images/thumbnails/staffmanagement-245-215-1477482418-devaki-acharya.jpg
+1 1 0 11318 0 0
+/admin/login
+0 27 0 146469 11 7
+/images/thumbnails/staffmanagement-245-200-1477482497-nphl4.jpg
+1 2 0 23888 0 0
+/assets/plugins/tinymce/plugins/media/plugin.min.js
+0 2 0 9036 0 0
+/images/thumbnails/staffmanagement-245-200-1477493939-staff-photo.jpg
+1 2 0 20788 0 0
+/images/thumbnails/staffmanagement-245-200-1477481722-img-2525.jpg
+1 2 0 33350 0 0
+/admin/staffmanagement/141/edit
+0 3 0 17967 0 0
+/images/thumbnails/departments-260-198-1477053123-3.jpg
+1 1 0 26628 0 0
+/images/thumbnails/staffmanagement-245-200-1476946289-staff-photo.png
+1 2 0 4300 0 0
+/images/thumbnails/staffmanagement-245-200-1477481045-staff-photo.jpg
+1 2 0 21886 0 0
+/images/thumbnails/staffmanagement-295-385-1477481526-img-2440.jpg
+1 27 0 588499 0 0
+/images/thumbnails/staffmanagement-295-385-1477481628-img-2476.jpg
+1 28 0 689964 0 0
+/images/thumbnails/staffmanagement-295-385-1477481659-img-2488.jpg
+1 28 0 622068 0 0
+/images/thumbnails/staffmanagement-295-385-1477480868-img-0357.jpg
+1 27 0 555471 0 0
+/images/thumbnails/staffmanagement-295-385-1476768448-staff-photo.png
+1 217 0 6303761 0 0
+/images/thumbnails/staffmanagement-295-385-1477481124-staff-photo.jpg
+1 220 0 3564274 0 0
+/images/thumbnails/staffmanagement-295-385-1477482281-sunil.jpg
+1 27 0 527135 0 0
+/images/thumbnails/staffmanagement-295-385-1477482503-jha.jpg
+1 28 0 536010 0 0
+/admin/departments/7/edit
+0 1 0 5384 0 0
+/images/thumbnails/staffmanagement-245-200-1477480882-img-0364.jpg
+1 2 0 26978 0 0
+/assets/backend/skins/dropify/css/dropify.css
+0 2 0 4778 0 0
+/images/thumbnails/staffmanagement-295-385-1477482118-pawan.jpg
+1 220 0 4042975 0 0
+/images/thumbnails/departments-260-260-1477053123-3.jpg
+1 205 0 5495092 0 0
+/assets/backend/img/avatars/avatar_11_tn@2x.png
+1 9 0 4418 0 0
+/images/thumbnails/staffmanagement-295-385-1478590897-staff-photo.jpg
+1 19 0 374391 0 0
+/images/thumbnails/staffmanagement-245-200-1477493701-m.jpg
+1 2 0 25492 0 0
+/images/thumbnails/staffmanagement-260-198-1478590897-staff-photo.jpg
+1 1 0 10211 0 0
+/assets/backend/img/avatars/avatar_11_tn.png
+1 10 0 3595 0 0
+/assets/plugins/kendo-ui/styles/kendo.common-material.min.css
+0 1 0 41313 0 0
+/assets/frontend/img/previous_report.png
+1 19 0 3883612 0 0
+/images/thumbnails/populartest-262-262-1477485048-placehodertechnolgies.jpg
+1 213 0 5246449 0 0
+/images/thumbnails/staffmanagement-245-215-1477482488-auther.jpg
+1 1 0 12782 0 0
+/images/thumbnails/staffmanagement-245-200-1477480738-img-0095.jpg
+1 2 0 19902 0 0
+/images/thumbnails/populartest-260-150-1477485177-beckman-coulter-au480.jpg
+1 8 0 85773 0 0
+/page/about
+0 20 0 134281 2 2
+/images/thumbnails/staffmanagement-245-200-1477481235-img-2371.jpg
+1 2 0 23256 0 0
+/images/thumbnails/staffmanagement-295-385-1477481540-img-2445.jpg
+1 27 0 639559 0 0
+/assets/plugins/tinymce/plugins/paste/plugin.min.js
+0 2 0 14182 0 0
+/images/thumbnails/staffmanagement-245-215-1477492039-appointment-bg.jpg
+1 1 0 12284 0 0
+/images/thumbnails/staffmanagement-245-200-1476948258-staff-photo.png
+1 2 0 4300 0 0
+/admin/menu
+0 6 0 63525 0 0
+/images/thumbnails/staffmanagement-245-200-1477481988-doc1-page.jpg
+1 2 0 18368 0 0
+/assets/plugins/datatables/media/js/jquery.dataTables.min.js
+0 9 0 86601 0 0
+/images/1476690292-blog3-page.jpg
+1 4 0 2746543 0 0
+/assets/backend/img/sidebar_head_bg@2x.png
+1 1 0 21119 0 0
+/images/thumbnails/staffmanagement-295-385-1477493939-staff-photo.jpg
+1 214 0 4000050 0 0
+/images/thumbnails/staffmanagement-295-385-1476946289-staff-photo.png
+1 27 0 714125 0 0
+/images/thumbnails/staffmanagement-245-200-1477482503-jha.jpg
+1 2 0 23888 0 0
+/images/thumbnails/departments-260-198-1477052798-blog2-page.jpg
+1 1 0 22872 0 0
+/assets/backend/img/favicon-16x16.png
+1 10 0 7151 0 0
+/images/thumbnails/staffmanagement-295-385-1477481045-staff-photo.jpg
+1 219 0 4411709 0 0
+/assets/plugins/tinymce/plugins/code/plugin.min.js
+0 2 0 1824 0 0
+/images/thumbnails/staffmanagement-260-198-1477481822-img-2539.jpg
+1 1 0 14517 0 0
+/images/thumbnails/departments-260-260-1476690292-blog3-page.jpg
+1 213 0 5136982 0 0
+/images/thumbnails/staffmanagement-245-200-1477482363-doct3.jpg
+1 2 0 24960 0 0
+/assets/backend/js/kendoui_custom.min.js
+0 1 0 128709 0 0
+/assets/frontend/css/bootstrap.min.css.map
+0 13 0 248204 0 0
+/images/thumbnails/staffmanagement-245-200-1477483667-khatiwada.jpg
+1 2 0 31330 0 0
+/assets/frontend/js/main.js
+0 223 0 360725 0 0
+/images/thumbnails/staffmanagement-245-200-1477480801-img-0107.jpg
+1 2 0 20198 0 0
+/images/thumbnails/departments-260-260-1477054349-img-0153.jpg
+1 207 0 6799476 0 0
+/assets/frontend/fonts/fontawesome-webfont.ttf
+0 3 24886752 453840 0 0
+/uploads/albums/1474258861-074332urine.jpg
+1 5 0 40357 0 0
+/images/1476688402-blood.jpg
+1 4 0 13651420 0 0
+/images/thumbnails/departments-260-260-1477052798-blog2-page.jpg
+1 208 0 5635290 0 0
+/images/thumbnails/staffmanagement-295-385-1476948258-staff-photo.png
+1 28 0 745422 0 0
+/assets/frontend/css/mdb.min.css
+0 252 0 4059353 0 0
+/assets/frontend/img/password2.jpg
+1 19 0 1350179 0 0
+/images/thumbnails/populartest-260-150-1477485113-img-0319-new.jpg
+1 8 0 76603 0 0
+/images/thumbnails/staffmanagement-245-200-1477481838-img-2538.jpg
+1 2 0 30056 0 0
+/images/thumbnails/staffmanagement-260-198-1477482171-3.jpg
+1 1 0 13833 0 0
+/images/thumbnails/staffmanagement-245-200-1477481425-img-2423.jpg
+1 2 0 24906 0 0
+/images/thumbnails/staffmanagement-245-200-1477481151-img-2370.jpg
+1 2 0 28534 0 0
+/images/thumbnails/staffmanagement-295-385-1477481672-img-2505.jpg
+1 27 0 555126 0 0
+/images/thumbnails/staffmanagement-245-200-1477493819-rm.jpg
+1 2 0 25142 0 0
+/images/thumbnails/staffmanagement-295-385-1477483648-amar.jpg
+1 27 0 503100 0 0
+/images/thumbnails/staffmanagement-245-200-1477481496-img-2437.jpg
+1 2 0 25536 0 0
+/admin/albumsetting
+0 6 0 29149 0 0
+/admin/gallerysetting/test/create
+0 1 24879072 4825 0 0
+/images/thumbnails/staffmanagement-260-198-1478590980-img-0364.jpg
+1 1 0 14154 0 0
+/stafflist/administration
+0 3 24815280 22793 0 0
+/assets/backend/css/main.min.css.map
+0 1 24867424 49879 0 0
+/stafflist/parasitology
+0 3 24814928 17163 0 0
+/images/thumbnails/staffmanagement-245-200-1477481591-img-2466.jpg
+1 2 0 27654 0 0
+/images/thumbnails/departments-260-260-1477053513-latest-img2.jpg
+1 209 0 5599715 0 0
+/images/thumbnails/staffmanagement-245-200-1477482171-3.jpg
+1 2 0 19892 0 0
+/assets/backend/js/kendoui.custom.min.js
+0 3 0 374866 0 0
+/images/thumbnails/staffmanagement-245-200-1477480927-staff-photo.jpg
+1 2 0 17472 0 0
+/images/thumbnails/staffmanagement-245-200-1477482136-hema.jpg
+1 2 0 28640 0 0
+/images/thumbnails/staffmanagement-245-200-1477482350-img-2465.jpg
+1 2 0 21926 0 0
+/assets/backend/img/logo_main_small.png
+1 10 0 5254 0 0
+/images/thumbnails/staffmanagement-295-385-1477480833-img-0126.jpg
+1 206 0 4249526 0 0
+/photogallery/detail/
+0 1 24880704 7017 0 0
+/images/thumbnails/staffmanagement-295-385-1477481822-img-2539.jpg
+1 10 0 178938 0 0
+/images/thumbnails/staffmanagement-295-385-1477480735-ja.jpg
+1 27 0 450568 0 0
+/photogallery
+0 18 0 99631 1 1
+/images/thumbnails/departments-260-198-1477054349-img-0153.jpg
+1 1 0 28229 0 0
+/images/thumbnails/populartest-262-262-1477485104-img-0294-new.jpg
+1 209 0 4665088 0 0
+/images/thumbnails/staffmanagement-245-200-1477483413-staff-photo.jpg
+1 2 0 23464 0 0
+/assets/plugins/filemanager/plugin.min.js
+0 2 0 2558 0 0
+/search
+0 17 0 95701 0 0
+/assets/backend/js/common.min.js
+0 11 0 538604 0 0
+/publication
+0 30 0 165285 4 2
+/assets/frontend/img/password1.jpg
+1 19 0 2425600 0 0
+/assets/plugins/tinymce/tinymce.min.js
+0 2 0 249064 0 0
+/images/thumbnails/staffmanagement-245-200-1477482335-staff-photo.jpg
+1 2 0 20506 0 0
+/images/thumbnails/staffmanagement-245-200-1477480952-staff-photo.jpg
+1 2 0 20360 0 0
+/stafflist/training
+0 3 24814032 17176 0 0
+/assets/plugins/tinymce/plugins/charmap/plugin.min.js
+0 2 0 6644 0 0
+/images/thumbnails/departments-260-260-1477054434-department-placeholder.jpg
+1 209 0 4077674 0 0
+/contact/feedback
+0 1 24880352 2351 0 0
+/page/message-from-the-director
+0 7 0 48994 3 0
+/images/thumbnails/staffmanagement-260-198-1478591069-bimalesh.jpg
+1 1 0 10370 0 0
+/assets/backend/icons/material-design-icons/codepoints.json
+0 6 0 359586 0 0
+/fonts/roboto/Roboto-Thin.woff2
+0 2 0 97929 0 0
+/uploads/gita_shakya.jpg
+1 215 0 2367255 0 0
+/images/thumbnails/staffmanagement-295-385-1477482497-nphl4.jpg
+1 220 0 4579415 0 0
+/images/thumbnails/staffmanagement-245-200-1474969055-staff-photo.png
+1 2 0 4300 0 0
+/images/thumbnails/staffmanagement-295-385-1477480927-staff-photo.jpg
+1 30 0 401862 0 0
+/images/thumbnails/staffmanagement-245-200-1477481026-staff-photo.jpg
+1 2 0 21550 0 0
+/assets/plugins/kendo-ui-core/styles/kendo.common-material.min.css
+0 3 0 115880 0 0
+/stafflist/collectionandcoutner
+0 4 0 25150 0 0
+/stafflist/endocrinology
+0 3 24815152 17492 0 0
+/images/thumbnails/staffmanagement-295-385-1478590980-img-0364.jpg
+1 19 0 471372 0 0
+/assets/plugins/tinymce/plugins/insertdatetime/plugin.min.js
+0 2 0 2682 0 0
+/assets/frontend/js/vendor/jquery-2.2.3.min.js
+0 237 0 6530245 0 0
+/assets/plugins/tinymce/plugins/lists/plugin.min.js
+0 2 0 6723 0 0
+/fonts/roboto/Roboto-Thin.eot
+0 5 0 110467 0 0
+/images/post-pictures/1474618599-post-text.png
+1 14 0 84878 0 0
+/images/thumbnails/staffmanagement-295-385-1477483413-staff-photo.jpg
+1 219 0 4528406 0 0
+/assets/plugins/kendo-ui/styles/kendo.material.min.css
+0 1 0 13301 0 0
+/images/thumbnails/staffmanagement-245-200-1477493667-m.jpg
+1 2 0 25216 0 0
+/assets/frontend/css/pe-icon-7-stroke.css
+0 242 0 552456 0 0
+/images/thumbnails/staffmanagement-245-200-1477482494-staff-photo.jpg
+1 2 0 23888 0 0
+/images/thumbnails/staffmanagement-245-200-1476773273-staff-photo.png
+1 2 0 4300 0 0
+/assets/backend/skins/dropify/fonts/dropify.woff
+0 3 0 14179 0 0
+/images/thumbnails/staffmanagement-245-200-1477482492-img-2493-new.jpg
+1 2 0 23888 0 0
+/assets/backend/img/Nepal.png
+1 10 0 813016 0 0
+/images/thumbnails/staffmanagement-295-385-1477482335-staff-photo.jpg
+1 220 0 4133325 0 0
+/assets/frontend/img/report.png
+1 19 0 3787860 0 0
+/images/thumbnails/staffmanagement-245-200-1477493710-nphl2.jpg
+1 2 0 25216 0 0
+/images/thumbnails/staffmanagement-245-200-1477493707-staff-photo.jpg
+1 2 0 25216 0 0
+/images/thumbnails/staffmanagement-295-385-1477480952-staff-photo.jpg
+1 30 0 459528 0 0
+/admin/post/second-news
+0 1 24878400 1003 0 0
+/images/thumbnails/staffmanagement-295-385-1477483550-shekhar.jpg
+1 28 0 735834 0 0
+/images/thumbnails/staffmanagement-245-200-1477482025-staff-photo.jpg
+1 2 0 21636 0 0
+/uploads/albums/1473752288-blog-page.jpg
+1 5 0 85558 0 0
+/images/thumbnails/staffmanagement-295-385-1477483626-jamuna.jpg
+1 28 0 778482 0 0
+/images/thumbnails/staffmanagement-295-385-1477482488-auther.jpg
+1 220 0 4575236 0 0
+/images/thumbnails/staffmanagement-245-200-1477314722-img-0098.jpg
+1 2 0 22194 0 0
+/images/thumbnails/slider-750-423-1475734660-about-slide1.jpg
+1 213 0 8274624 0 0
+/images/thumbnails/staffmanagement-295-385-1474969055-staff-photo.png
+1 218 0 6260176 0 0
+/assets/plugins/tinymce/plugins/autolink/plugin.min.js
+0 2 0 2900 0 0
+/images/thumbnails/staffmanagement-295-385-1477481769-img-2534.jpg
+1 27 0 630336 0 0
+/assets/backend/img/sidebar_head_bg.png
+1 9 0 27842 0 0
+/images/thumbnails/staffmanagement-295-385-1477481026-staff-photo.jpg
+1 215 0 4162919 0 0
+/fonts/roboto/Roboto-Regular.woff
+0 2 24862576 86743 0 0
+/assets/plugins/tinymce/plugins/table/plugin.min.js
+0 2 0 27407 0 0
+/assets/plugins/tinymce/plugins/contextmenu/plugin.min.js
+0 2 0 2038 0 0
+/images/thumbnails/staffmanagement-295-385-1477482363-doct3.jpg
+1 216 0 5050972 0 0
+/fonts/roboto/Roboto-Bold.woff
+0 2 24862704 126768 0 0
+/images/thumbnails/staffmanagement-295-385-1477481691-img-2508.jpg
+1 27 0 570582 0 0
+/assets/backend/js/pages/plugins_datatables.min.js
+0 5 0 7272 0 0
+/images/thumbnails/staffmanagement-295-385-1477482492-img-2493-new.jpg
+1 219 0 4553064 0 0
+/admin/staffmanagement
+0 4 0 39355 0 0
+/images/thumbnails/staffmanagement-245-200-1477480818-img-0110.jpg
+1 2 0 22288 0 0
+/images/thumbnails/staffmanagement-295-385-1478591069-bimalesh.jpg
+1 19 0 392598 0 0
+/images/thumbnails/staffmanagement-245-215-1477483454-doct7.jpg
+1 1 0 15449 0 0
+/assets/backend/skins/tinymce/material_design/content.min.css
+0 2 0 2384 0 0
+/images/thumbnails/staffmanagement-245-200-1477482173-staff-photo.jpg
+1 2 0 19754 0 0
+/images/thumbnails/staffmanagement-245-200-1477482296-staff-photo.jpg
+1 2 0 23214 0 0
+/images/thumbnails/staffmanagement-295-385-1477482494-staff-photo.jpg
+1 217 0 4513721 0 0
+/images/thumbnails/staffmanagement-295-385-1476773273-staff-photo.png
+1 27 0 714263 0 0
+/images/thumbnails/departments-260-260-1477054508-gallary-5.jpg
+1 206 0 3921995 0 0
+/images/thumbnails/staffmanagement-245-200-1477481306-bimalesh.jpg
+1 2 0 20352 0 0
+/images/thumbnails/staffmanagement-295-385-1477482136-hema.jpg
+1 27 0 585877 0 0
+/images/thumbnails/staffmanagement-295-385-1477493707-staff-photo.jpg
+1 214 0 4610705 0 0
+/images/thumbnails/staffmanagement-245-200-1477483597-img-2520.jpg
+1 2 0 29624 0 0
+/admin/dashboard
+0 8 0 35692 0 1
+/images/thumbnails/staffmanagement-260-198-1478591294-img-2539.jpg
+1 1 0 14307 0 0
+/images/1474544308-appin-right-img.png
+1 4 0 130715 0 0
+/images/thumbnails/staffmanagement-295-385-1478590878-3.jpg
+1 19 0 374534 0 0
+/images/thumbnails/staffmanagement-245-200-1477481099-staff-photo.jpg
+1 2 0 20796 0 0
+/images/thumbnails/staffmanagement-245-200-1476767522-staff-photo.png
+1 2 0 4300 0 0
+/images/thumbnails/staffmanagement-295-385-1477482025-staff-photo.jpg
+1 217 0 4035980 0 0
+/images/thumbnails/staffmanagement-245-200-1477493758-staff-photo.jpg
+1 2 0 25142 0 0
+/stafflist/influenza
+0 3 24814256 20176 0 0
+/assets/frontend/fonts/glyphicons-halflings-regular.eot
+0 5 0 102803 0 0
+/images/thumbnails/staffmanagement-245-200-1477481562-img-2446.jpg
+1 2 0 28888 0 0
+/fonts/roboto/Roboto-Thin.woff
+0 3 24862320 165515 0 0
+/images/thumbnails/staffmanagement-260-198-1478591428-img-2437.jpg
+1 1 0 13227 0 0
+# End Of Table - urls
+# -sites- (monthly)
+89-adsl.ntc.net.np
+0 1 0 1113 0 0
+-
+27.34.35.219
+0 177 176 3650846 2 1479314302
+/publication
+google-proxy-66-102-6-113.google.com
+0 8 8 164981 3 1479045457
+/
+195-adsl.ntc.net.np
+0 97 97 1897054 1 1479300126
+/
+cust162-51.classic.com.np
+0 2164 1992 41773248 14 1479124852
+/
+google-proxy-66-249-82-101.google.com
+0 67 66 1234156 1 1479294083
+/
+crawl-66-249-79-127.googlebot.com
+0 98 53 5449222 1 1479318787
+/
+google-proxy-66-249-82-104.google.com
+0 58 58 1131775 0 0
+-
+163-172-65-112.rev.poneytelecom.eu
+0 1 1 17449 1 1479312720
+/
+static-208-80-194-125.as13448.com
+0 2 0 1352 2 1479323553
+-
+113.199.242.132
+0 45 44 694411 1 1478384401
+/
+103.232.229.204
+0 75 75 1402096 1 1479308192
+/search
+google-proxy-66-102-6-79.google.com
+0 5 5 63839 4 1478770238
+/admin/login
+49.126.255.161
+0 5 5 108209 0 0
+-
+n29-06-08.opera-mini.net
+0 10 8 68556 0 0
+-
+google-proxy-64-233-173-16.google.com
+0 39 38 785989 0 0
+-
+202.70.65.6
+0 97 97 1897071 1 1479289345
+/
+110.44.127.194
+0 336 326 6936430 2 1479283687
+/page/rate-list
+66.220.145.243
+0 12 12 189020 0 0
+-
+66.220.145.244
+0 34 34 690522 0 0
+-
+66.220.145.245
+0 35 35 740833 1 1479162252
+/
+66.220.145.246
+0 16 16 290807 0 0
+-
+61.7.138.138
+0 1 0 1109 0 0
+-
+crawl-66-249-65-61.googlebot.com
+0 13 9 70521 1 1479329223
+/
+nsg-static-254.23.76.182-airtel.com
+0 2 1 2059055 1 1479275068
+/
+baiduspider-180-76-15-6.crawl.baidu.com
+0 1 1 584000 1 1479314658
+/
+27.34.79.48
+0 97 97 1897000 1 1479315755
+/
+google-proxy-66-102-6-6.google.com
+0 6 4 78464 2 1479304044
+-
+110.34.30.234
+0 102 102 1944913 1 1479311960
+/
+photon031.ahrefs.com
+0 1 1 345 0 0
+-
+46.229.167.149
+0 1 1 2019960 1 1479334915
+/
+crawl-66-249-79-82.googlebot.com
+0 22 16 220036 11 1479337947
+/
+113.199.248.216
+0 1 0 1114 0 0
+-
+202.70.79.61
+0 102 102 1944985 1 1479294058
+/
+110.34.13.3
+0 24 24 447836 1 1479334101
+/
+163-172-66-169.rev.poneytelecom.eu
+0 1 0 1110 0 0
+-
+crawl-66-249-79-109.googlebot.com
+0 21 6 117387 7 1479320798
+/
+google-proxy-66-102-6-147.google.com
+0 2 2 36964 1 1479308417
+/
+103.232.230.18
+0 106 106 1946540 1 1479320869
+/archieve
+202.63.246.54
+0 98 98 1914591 1 1479313672
+/
+static-208-80-194-27.as13448.com
+0 2 0 2696 1 1479324044
+-
+117.219.218.4
+0 2 1 2059059 1 1479287777
+/
+msnbot-207-46-13-111.search.msn.com
+0 7 7 90576 4 1479333219
+/
+240-adsl.ntc.net.np
+0 97 97 1897004 1 1479291852
+/
+163-172-66-81.rev.poneytelecom.eu
+0 1 0 1110 0 0
+-
+202.70.70.38
+0 99 99 1985844 1 1479321920
+/
+infong471.lxa.perfora.net
+0 1 0 634 1 1479309761
+-
+139.5.69.1
+0 107 104 2243821 1 1479289555
+/page/about
+251-adsl.ntc.net.np
+0 98 98 1968083 1 1479293138
+/
+103.10.29.18
+0 1 1 21426 1 1478968818
+/
+pl9.webline-servers.com
+0 1 0 634 1 1479290727
+-
+173.252.113.117
+0 1 1 21224 1 1479162250
+/
+202.70.70.58
+0 59 59 1068815 1 1479302391
+/photogallery
+154-adsl.ntc.net.np
+0 2 0 2217 0 0
+-
+crawl-66-249-79-64.googlebot.com
+0 21 13 3568267 1 1479318718
+-
+103.232.231.137
+0 101 101 1966262 1 1479322509
+/
+b110101.yse.yahoo.net
+0 1 1 17490 1 1479247088
+/
+113.199.247.239
+0 265 257 10552701 1 1478343576
+/
+google-proxy-64-233-173-28.google.com
+0 78 75 1523070 1 1479289612
+/
+dsl.49.150.229.117.pldt.net
+0 2 1 1332096 1 1479236180
+/
+wit-asa.waiariki.ac.nz
+0 11 1 27423 1 1479272777
+/
+google-proxy-66-102-6-109.google.com
+0 5 5 114421 1 1478707191
+/
+static-208-80-194-124.as13448.com
+0 3 0 3342 2 1479313804
+-
+baiduspider-180-76-15-138.crawl.baidu.com
+0 1 0 1113 0 0
+-
+27.34.88.235
+0 351 349 9095189 6 1479327282
+/
+27.34.93.198
+0 128 128 2793990 1 1479327567
+/publication
+203.92.118.178
+0 27 27 526639 1 1479306226
+/
+crawl-66-249-65-14.googlebot.com
+0 5 5 91153 1 1479301843
+/page/message-from-the-director
+n16-03-08.opera-mini.net
+0 50 50 1077271 1 1479281594
+/
+173-232-13.static.rdns.serverhub.com
+0 1 1 17486 1 1479258852
+/
+baiduspider-180-76-15-156.crawl.baidu.com
+0 2 1 18627 1 1479308134
+/
+202.70.70.207
+0 2 1 1417 1 1479290964
+-
+fo-p00-ob.rzone.de
+0 1 0 644 1 1479310299
+-
+cust163-119.classic.com.np
+0 3709 2648 51851682 4 1478179821
+/
+n07-02-04.opera-mini.net
+0 107 106 2036221 1 1479315383
+/
+202.70.70.213
+0 37 37 467029 1 1479235689
+/
+113.199.147.107
+0 298 298 6531319 1 1479283559
+/
+mozzarella.ug.activeminds.net
+0 1 1 17495 1 1479298272
+/
+113.199.186.64
+0 231 231 4684832 1 1479329022
+/
+202.70.70.220
+0 1 1 17350 1 1479323989
+/
+113.199.252.13
+0 1 0 1113 0 0
+-
+202.70.70.225
+0 15 15 322068 1 1479299477
+/
+202.70.70.229
+0 1 1 17355 1 1479328998
+/
+177.220.166.202.ether.static.wlink.com.np
+0 166 166 3552292 1 1479298388
+/stafflist/directors
+139.5.69.82
+0 34 33 277101 1 1479286587
+-
+202.70.70.231
+0 8 8 192981 1 1479298772
+/
+106.197.166.202.ether.static.wlink.com.np
+0 110 107 2123834 1 1479302065
+/publication
+202.70.70.234
+0 137 137 2909781 1 1479287942
+/
+202.70.70.235
+0 32 32 728289 1 1479236306
+/
+175.100.105.230
+0 97 97 1897054 1 1479280609
+/
+202.70.70.239
+0 1 1 17538 1 1479304515
+/
+202.70.70.243
+0 98 98 1967946 1 1479324779
+/
+202.70.70.246
+0 115 115 3054229 1 1479328937
+/
+118.91.170.190
+0 112 109 2030086 1 1479301448
+/
+static-208-80-194-26.as13448.com
+0 4 0 5408 2 1479297539
+-
+google-proxy-66-102-6-112.google.com
+0 1 0 581 1 1478011397
+-
+113.199.186.96
+0 1 1 17280 1 1479309544
+/
+202.70.70.251
+0 27 27 590971 1 1479303673
+/
+static-232.144.97.14-tataidc.co.in
+0 2 1 2059057 1 1479280785
+/
+crawl-66-249-69-91.googlebot.com
+0 3 3 14816 1 1479266214
+/page/rate-list
+crawl-66-249-79-79.googlebot.com
+0 2 1 4896 0 0
+-
+crawl-66-249-73-155.googlebot.com
+0 89 62 1240658 3 1479275530
+-
+110.44.121.140
+0 221 213 4935792 1 1479300192
+/
+crawl-66-249-65-62.googlebot.com
+0 5 3 17762 1 1479329160
+/
+28.188.156.175.unknown.m1.com.sg
+0 112 102 3297026 1 1479278442
+/photogallery
+43.245.85.47
+0 98 98 1902481 1 1479289526
+/publication
+google-proxy-66-102-6-75.google.com
+0 8 8 141846 3 1479115793
+/
+163-172-65-122.rev.poneytelecom.eu
+0 1 0 1109 0 0
+-
+223.60.79.202.ether.static.wlink.com.np
+0 99 98 1919652 1 1478884267
+/
+crawl-66-249-79-72.googlebot.com
+0 66 48 483427 11 1479338195
+/
+106-adsl.ntc.net.np
+0 105 105 2763918 1 1479287332
+/page/online-report
+infong579.lxa.perfora.net
+0 1 0 654 1 1479291773
+-
+z09-06-03.opera-mini.net
+0 85 85 1819137 1 1479306217
+/
+203.146.39.62
+0 97 97 1897061 1 1479298371
+/
+27.34.98.18
+0 109 99 1918891 1 1479319092
+/archieve
+google-proxy-64-233-173-15.google.com
+0 32 32 556524 1 1479302987
+/
+182.54.158.50
+0 354 354 6825996 2 1479319749
+/
+110.44.127.204
+0 105 105 2853359 1 1479330966
+/page/online-report
+164.64.48.60.trm02-home.tm.net.my
+0 97 97 1896886 1 1479317925
+/
+124-adsl.ntc.net.np
+0 11 11 89333 1 1479334194
+/
+27.34.74.230
+0 206 206 3949694 1 1479286976
+/
+static-208-80-194-123.as13448.com
+0 3 0 4682 3 1479337689
+-
+202.51.82.73
+0 98 98 1991899 1 1479296922
+/
+62-210-152-84.rev.poneytelecom.eu
+0 1 1 350400 1 1479339056
+/
+43-adsl.ntc.net.np
+0 107 107 6216554 1 1479289193
+/
+47-adsl.ntc.net.np
+0 98 98 1914142 1 1479321851
+/
+google-proxy-66-102-6-8.google.com
+0 8 1 18910 3 1479304045
+-
+google-proxy-66-102-6-143.google.com
+0 2 2 36762 1 1479333689
+/
+n25-01-05.opera-mini.net
+0 244 244 5530827 1 1479321386
+/
+120.29.114.231
+0 2 1 2028675 1 1479335140
+/
+broadband.actcorp.in
+0 2 1 2059057 1 1479293724
+/
+adsl-41.202.70.40.aviso.ci
+0 2 1 2028671 1 1479333654
+/
+z05-06-09.opera-mini.net
+0 106 106 2787772 1 1479285668
+/
+110.44.121.44
+0 68 68 1655683 1 1478559451
+/stafflist
+crawl-66-249-73-159.googlebot.com
+0 13 6 744938 3 1479275510
+-
+sogouspider-123-126-113-149.crawl.sogou.com
+0 10 10 42417 0 0
+-
+46.166.148.153
+0 28 0 70308 1 1479326138
+/
+baiduspider-180-76-15-144.crawl.baidu.com
+0 1 1 584000 1 1479303599
+/
+baiduspider-180-76-15-151.crawl.baidu.com
+0 1 1 17517 1 1479297682
+/
+baiduspider-180-76-15-155.crawl.baidu.com
+0 1 1 17508 1 1479303597
+/
+crawl-66-249-73-163.googlebot.com
+0 6 5 7711815 2 1479273068
+/
+n23-01-06.opera-mini.net
+0 105 105 2070779 1 1479262973
+/
+27.34.115.181
+0 113 113 2225898 1 1479302820
+/
+s11.h.mchost.ru
+0 1 0 644 1 1479311379
+-
+msnbot-40-77-167-72.search.msn.com
+0 5 4 42981 0 0
+-
+n20-02-03.opera-mini.net
+0 104 104 2059526 1 1479292640
+/
+217.17.249.161
+0 85 85 1189231 1 1479302575
+/
+baiduspider-180-76-15-19.crawl.baidu.com
+0 1 0 1109 0 0
+-
+kgo-ds-df2.accessworld.net
+0 98 98 1968098 1 1479290704
+/
+baiduspider-180-76-15-8.crawl.baidu.com
+0 2 2 607336 1 1479314657
+/
+baiduspider-180-76-15-33.crawl.baidu.com
+0 1 1 17508 1 1479314651
+/
+p3slh161.shr.phx3.secureserver.net
+0 1 0 642 1 1479312437
+-
+cust160-60.classic.com.np
+0 201 106 2210031 2 1478261096
+/
+servidor1101.controladordns.com
+0 1 0 654 1 1479310825
+-
+static-208-80-194-122.as13448.com
+0 3 0 4682 3 1479337690
+-
+lnxwebs16.cpt.wa.co.za
+0 1 0 654 1 1479234532
+-
+crawl-66-249-79-69.googlebot.com
+0 12 3 47454 2 1479338765
+-
+63.243.252.61
+0 1 0 1098 0 0
+-
+27.34.24.176
+0 187 186 8220590 1 1479239712
+/photogallery
+103.58.144.11
+0 197 197 3846704 2 1479295377
+/
+110.44.125.15
+0 92 92 2498471 3 1478646283
+/
+103.58.144.16
+0 112 110 2330817 1 1479320844
+/
+163-172-65-247.rev.poneytelecom.eu
+0 1 0 1106 0 0
+-
+101-adsl.ntc.net.np
+0 138 107 3007764 1 1479288625
+/page/online-report
+113.199.176.142
+0 98 98 1896747 1 1479302887
+/
+mail.petrovalve.com
+0 3 2 32735 0 0
+-
+173-208-39-136.ipvnow.com
+0 1 1 17501 1 1479258832
+/
+www2215.sakura.ne.jp
+0 1 0 642 1 1479293323
+-
+msnbot-199-30-24-75.search.msn.com
+0 2 2 197010 0 0
+-
+google-proxy-64-233-173-30.google.com
+0 70 62 1102626 1 1479335526
+/
+static-208-80-194-30.as13448.com
+0 16 0 21648 5 1479330136
+-
+197-248-214-54.safaricombusiness.co.ke
+0 97 97 1896865 1 1479326546
+/
+163-172-65-192.rev.poneytelecom.eu
+0 1 1 17445 1 1479313921
+/
+spider-93-158-152-63.yandex.com
+0 2 0 2207 0 0
+-
+google-proxy-66-102-6-111.google.com
+0 10 10 155339 6 1478944742
+/
+s31-05-08.opera-mini.net
+0 97 97 1901373 1 1479306218
+/
+35-adsl.ntc.net.np
+0 107 105 1971324 1 1479298434
+/
+27.34.24.48
+0 100 99 1953555 1 1479156834
+/
+163-172-65-121.rev.poneytelecom.eu
+0 1 0 1104 0 0
+-
+145-adsl.ntc.net.np
+0 3 3 130617 1 1479321030
+/
+125.217.166.202.ether.static.wlink.com.np
+0 1913 1891 57961593 15 1479309215
+/
+149-adsl.ntc.net.np
+0 125 125 3198670 1 1479312118
+/search
+crawl-66-249-65-12.googlebot.com
+0 4 3 39253 2 1479318234
+-
+111.119.41.191
+0 118 117 2354826 2 1479313039
+/
+google-proxy-66-249-82-102.google.com
+0 60 60 1163602 0 0
+-
+27.34.108.250
+0 422 419 9002460 1 1479336038
+/
+183.90.37.102
+0 132 104 2120194 1 1479306241
+/
+sogouspider-123-126-113-126.crawl.sogou.com
+0 3 3 18193 1 1479268992
+/
+google-proxy-66-102-6-77.google.com
+0 4 4 91173 1 1478601470
+/
+gw-cluster011.ovh.net
+0 1 0 644 1 1479291250
+-
+spider-5-255-253-48.yandex.com
+0 1 0 1100 0 0
+-
+114.143.194.102
+0 97 97 1897056 1 1479293267
+/
+n17-13-03.opera-mini.net
+0 97 97 1891613 1 1479284876
+/
+baiduspider-123-125-71-116.crawl.baidu.com
+0 1 1 364 0 0
+-
+178-adsl.ntc.net.np
+0 17 17 244664 1 1479275294
+/
+google-proxy-64-233-173-17.google.com
+0 32 32 516731 0 0
+-
+27.34.0.51
+0 142 142 2636518 1 1479324866
+/contact-us
+203.116.157.130
+0 99 99 1985667 2 1479292225
+/
+163.195.16.74
+0 136 136 2228259 2 1479317948
+/
+208.211.166.202.ether.static.wlink.com.np
+0 97 97 1897051 1 1479297432
+/
+static.34.59.201.138.clients.your-server.de
+0 9 9 1152334 1 1479310138
+/
+ip-static-94-242-221-70.server.lu
+0 1 1 58400 1 1479316193
+/
+google-proxy-66-102-6-4.google.com
+0 4 0 3635 3 1479304044
+-
+ip5f5afd19.dynamic.kabel-deutschland.de
+0 2 1 2059057 1 1479272589
+/
+baiduspider-180-76-15-154.crawl.baidu.com
+0 1 1 582540 1 1479297683
+/
+120.89.103.107
+0 116 107 2101925 2 1479326213
+/contact-us
+103.250.134.12
+0 227 195 3576698 2 1479321453
+/page/online-report
+116.90.224.122
+0 56 56 986705 1 1479310901
+/
+msnbot-207-46-13-49.search.msn.com
+0 5 5 42988 2 1479328463
+/
+n11-01-02.opera-mini.net
+0 449 398 8493323 1 1479287100
+/
+n16-06-01.opera-mini.net
+0 76 76 1581850 1 1479288195
+/
+crawl-66-249-79-77.googlebot.com
+0 40 29 397714 11 1479331049
+/
+crawl-66-249-65-60.googlebot.com
+0 89 46 378543 1 1479329215
+/
+124.41.243.80
+0 104 104 2758673 1 1479240175
+/page/online-report
+45.112.176.136
+0 15 15 168651 1 1479319040
+/
+msnbot-207-46-13-147.search.msn.com
+0 3 1 3745 0 0
+-
+crawl-66-249-65-16.googlebot.com
+0 5 3 46649 2 1479338757
+-
+google-proxy-66-102-7-166.google.com
+0 1 1 19638 0 0
+-
+103.235.196.38
+0 99 98 2017856 1 1478719196
+/
+dedi-fr-35770.tuvixhosting.nl
+0 3 2 2029082 1 1479340080
+-
+baiduspider-180-76-15-21.crawl.baidu.com
+0 1 1 551880 1 1479308135
+/
+163.53.24.130
+0 107 107 2786217 1 1479327130
+/search
+103.235.196.46
+0 104 104 2758454 1 1479328843
+/page/online-report
+spider-178-154-189-7.yandex.com
+0 4 3 2277 0 0
+-
+ptr-41-222-89-245-dsalaam.tz.bellafrica.net
+0 97 97 1897058 1 1479299123
+/
+baiduspider-180-76-15-32.crawl.baidu.com
+0 1 0 1113 0 0
+-
+209-adsl.ntc.net.np
+0 4 4 38409 1 1479285712
+/
+103.235.196.53
+0 2 2 22968 1 1479297400
+/
+static-208-80-194-126.as13448.com
+0 1 0 2038 1 1479323606
+-
+163-172-65-119.rev.poneytelecom.eu
+0 1 1 17257 1 1479323699
+/
+103.235.199.233
+0 4 3 33563 1 1479300794
+-
+113.199.228.88
+0 773 773 15107922 5 1479315132
+/
+opensy8.lnk.telstra.net
+0 2 2 2057904 1 1479280163
+/
+163.53.24.151
+0 3 3 16291 1 1479300819
+/search
+116.66.196.89
+0 7 7 56588 1 1479336093
+/
+crawl-66-249-79-101.googlebot.com
+0 128 24 316158 5 1479286226
+/
+163.53.24.157
+0 98 97 1910483 1 1478598900
+/
+202.70.82.188
+0 98 98 1991725 1 1479331697
+/
+113.199.172.136
+0 96 96 1882448 1 1479244029
+/archieve
+54.223.166.202.ether.static.wlink.com.np
+0 28 28 280548 1 1479297451
+/
+103.250.134.80
+0 1 1 17539 1 1479316253
+/
+google-proxy-64-233-173-29.google.com
+0 70 60 1155409 1 1479289616
+/
+103.206.131.149
+0 1 0 11765 1 1479316194
+/
+119.157.135.104
+0 3 0 3336 0 0
+-
+baiduspider-123-125-71-14.crawl.baidu.com
+0 1 0 1124 0 0
+-
+8.37.230.32
+0 130 130 2246202 1 1479286839
+/
+249-adsl.ntc.net.np
+0 172 169 4283503 1 1479303944
+/page/rate-list
+27.34.76.198
+0 6 6 104629 2 1479311939
+/
+27.34.26.243
+0 119 114 2139534 3 1479302109
+/
+69.63.188.105
+0 1 1 23320 0 0
+-
+120.89.103.50
+0 102 102 1920936 1 1479298004
+/
+198.27.100.223
+0 1 0 2059 0 0
+-
+69.63.188.115
+0 1 1 21212 1 1479162244
+/
+202.70.70.197
+0 5 5 93851 1 1479296606
+/
+crawl-66-249-79-74.googlebot.com
+0 1 0 2829 1 1479291839
+-
+45-adsl.ntc.net.np
+0 2 0 2218 0 0
+-
+113.199.231.62
+0 194 194 3794100 2 1479312001
+/
+pc182.nwhcn.org.au
+0 98 98 1914583 1 1479297574
+/
+cust160-39.classic.com.np
+0 2229 1994 41534799 7 1479318509
+/publication
+n13-07-05.opera-mini.net
+0 102 102 1992186 1 1479293247
+/
+168.235.207.225
+0 171 107 3112954 1 1479303263
+/
+n30-01-05.opera-mini.net
+0 192 192 3902086 1 1479335394
+/
+110.44.115.104
+0 97 97 1897054 1 1479294206
+/
+66.220.146.225
+0 1 1 22220 0 0
+-
+66.220.146.226
+0 1 1 32183 0 0
+-
+66.220.146.227
+0 2 2 51850 0 0
+-
+iom-vlan224.nren.net.np
+0 1 0 1114 0 0
+-
+66.220.146.228
+0 4 4 100922 0 0
+-
+66.220.146.229
+0 2 2 51190 0 0
+-
+66.220.146.230
+0 7 7 207110 0 0
+-
+66.220.146.231
+0 3 3 88437 0 0
+-
+36.253.254.200
+0 5 5 102938 0 0
+-
+150.107.205.190
+0 14 14 2059818 1 1479162385
+/
+188-adsl.ntc.net.np
+0 3 2 32715 1 1479305908
+-
+crawl-66-249-79-105.googlebot.com
+0 36 9 179218 9 1479327171
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+27.34.35.219
+0 177 176 3650846 2 1479314302
+/publication
+195-adsl.ntc.net.np
+0 97 97 1897054 1 1479300126
+/
+google-proxy-66-249-82-101.google.com
+0 67 66 1234156 1 1479294083
+/
+crawl-66-249-79-127.googlebot.com
+0 98 53 5449222 1 1479318787
+/
+google-proxy-66-249-82-104.google.com
+0 58 58 1131775 0 0
+-
+163-172-65-112.rev.poneytelecom.eu
+0 1 1 17449 1 1479312720
+/
+static-208-80-194-125.as13448.com
+0 2 0 1352 2 1479323553
+-
+103.232.229.204
+0 75 75 1402096 1 1479308192
+/search
+49.126.255.161
+0 5 5 108209 0 0
+-
+n29-06-08.opera-mini.net
+0 10 8 68556 0 0
+-
+google-proxy-64-233-173-16.google.com
+0 39 38 785989 0 0
+-
+202.70.65.6
+0 97 97 1897071 1 1479289345
+/
+110.44.127.194
+0 237 227 4839178 1 1479283687
+/page/rate-list
+61.7.138.138
+0 1 0 1109 0 0
+-
+crawl-66-249-65-61.googlebot.com
+0 13 9 70521 1 1479329223
+/
+nsg-static-254.23.76.182-airtel.com
+0 2 1 2059055 1 1479275068
+/
+baiduspider-180-76-15-6.crawl.baidu.com
+0 1 1 584000 1 1479314658
+/
+27.34.79.48
+0 97 97 1897000 1 1479315755
+/
+google-proxy-66-102-6-6.google.com
+0 6 4 78464 2 1479304044
+-
+110.34.30.234
+0 102 102 1944913 1 1479311960
+/
+photon031.ahrefs.com
+0 1 1 345 0 0
+-
+46.229.167.149
+0 1 1 2019960 1 1479334915
+/
+crawl-66-249-79-82.googlebot.com
+0 22 16 220036 11 1479337947
+/
+202.70.79.61
+0 102 102 1944985 1 1479294058
+/
+110.34.13.3
+0 24 24 447836 1 1479334101
+/
+163-172-66-169.rev.poneytelecom.eu
+0 1 0 1110 0 0
+-
+crawl-66-249-79-109.googlebot.com
+0 21 6 117387 7 1479320798
+/
+google-proxy-66-102-6-147.google.com
+0 2 2 36964 1 1479308417
+/
+103.232.230.18
+0 106 106 1946540 1 1479320869
+/archieve
+202.63.246.54
+0 98 98 1914591 1 1479313672
+/
+static-208-80-194-27.as13448.com
+0 2 0 2696 1 1479324044
+-
+117.219.218.4
+0 2 1 2059059 1 1479287777
+/
+msnbot-207-46-13-111.search.msn.com
+0 7 7 90576 4 1479333219
+/
+240-adsl.ntc.net.np
+0 97 97 1897004 1 1479291852
+/
+163-172-66-81.rev.poneytelecom.eu
+0 1 0 1110 0 0
+-
+202.70.70.38
+0 99 99 1985844 1 1479321920
+/
+infong471.lxa.perfora.net
+0 1 0 634 1 1479309761
+-
+139.5.69.1
+0 107 104 2243821 1 1479289555
+/page/about
+251-adsl.ntc.net.np
+0 98 98 1968083 1 1479293138
+/
+pl9.webline-servers.com
+0 1 0 634 1 1479290727
+-
+202.70.70.58
+0 59 59 1068815 1 1479302391
+/photogallery
+crawl-66-249-79-64.googlebot.com
+0 21 13 3568267 1 1479318718
+-
+103.232.231.137
+0 101 101 1966262 1 1479322509
+/
+google-proxy-64-233-173-28.google.com
+0 78 75 1523070 1 1479289612
+/
+wit-asa.waiariki.ac.nz
+0 11 1 27423 1 1479272777
+/
+static-208-80-194-124.as13448.com
+0 3 0 3342 2 1479313804
+-
+baiduspider-180-76-15-138.crawl.baidu.com
+0 1 0 1113 0 0
+-
+27.34.88.235
+0 351 349 9095189 6 1479327282
+/
+27.34.93.198
+0 128 128 2793990 1 1479327567
+/publication
+203.92.118.178
+0 27 27 526639 1 1479306226
+/
+crawl-66-249-65-14.googlebot.com
+0 5 5 91153 1 1479301843
+/page/message-from-the-director
+n16-03-08.opera-mini.net
+0 50 50 1077271 1 1479281594
+/
+173-232-13.static.rdns.serverhub.com
+0 1 1 17486 1 1479258852
+/
+baiduspider-180-76-15-156.crawl.baidu.com
+0 2 1 18627 1 1479308134
+/
+202.70.70.207
+0 2 1 1417 1 1479290964
+-
+fo-p00-ob.rzone.de
+0 1 0 644 1 1479310299
+-
+n07-02-04.opera-mini.net
+0 107 106 2036221 1 1479315383
+/
+113.199.147.107
+0 298 298 6531319 1 1479283559
+/
+mozzarella.ug.activeminds.net
+0 1 1 17495 1 1479298272
+/
+113.199.186.64
+0 231 231 4684832 1 1479329022
+/
+202.70.70.220
+0 1 1 17350 1 1479323989
+/
+113.199.252.13
+0 1 0 1113 0 0
+-
+202.70.70.225
+0 15 15 322068 1 1479299477
+/
+202.70.70.229
+0 1 1 17355 1 1479328998
+/
+177.220.166.202.ether.static.wlink.com.np
+0 166 166 3552292 1 1479298388
+/stafflist/directors
+139.5.69.82
+0 34 33 277101 1 1479286587
+-
+202.70.70.231
+0 8 8 192981 1 1479298772
+/
+106.197.166.202.ether.static.wlink.com.np
+0 110 107 2123834 1 1479302065
+/publication
+202.70.70.234
+0 137 137 2909781 1 1479287942
+/
+175.100.105.230
+0 97 97 1897054 1 1479280609
+/
+202.70.70.239
+0 1 1 17538 1 1479304515
+/
+202.70.70.243
+0 98 98 1967946 1 1479324779
+/
+202.70.70.246
+0 115 115 3054229 1 1479328937
+/
+118.91.170.190
+0 112 109 2030086 1 1479301448
+/
+static-208-80-194-26.as13448.com
+0 4 0 5408 2 1479297539
+-
+113.199.186.96
+0 1 1 17280 1 1479309544
+/
+202.70.70.251
+0 27 27 590971 1 1479303673
+/
+static-232.144.97.14-tataidc.co.in
+0 2 1 2059057 1 1479280785
+/
+crawl-66-249-69-91.googlebot.com
+0 3 3 14816 1 1479266214
+/page/rate-list
+crawl-66-249-79-79.googlebot.com
+0 2 1 4896 0 0
+-
+crawl-66-249-73-155.googlebot.com
+0 89 62 1240658 3 1479275530
+-
+110.44.121.140
+0 221 213 4935792 1 1479300192
+/
+crawl-66-249-65-62.googlebot.com
+0 5 3 17762 1 1479329160
+/
+28.188.156.175.unknown.m1.com.sg
+0 112 102 3297026 1 1479278442
+/photogallery
+43.245.85.47
+0 98 98 1902481 1 1479289526
+/publication
+163-172-65-122.rev.poneytelecom.eu
+0 1 0 1109 0 0
+-
+crawl-66-249-79-72.googlebot.com
+0 66 48 483427 11 1479338195
+/
+106-adsl.ntc.net.np
+0 105 105 2763918 1 1479287332
+/page/online-report
+infong579.lxa.perfora.net
+0 1 0 654 1 1479291773
+-
+z09-06-03.opera-mini.net
+0 85 85 1819137 1 1479306217
+/
+203.146.39.62
+0 97 97 1897061 1 1479298371
+/
+27.34.98.18
+0 109 99 1918891 1 1479319092
+/archieve
+google-proxy-64-233-173-15.google.com
+0 32 32 556524 1 1479302987
+/
+182.54.158.50
+0 354 354 6825996 2 1479319749
+/
+110.44.127.204
+0 105 105 2853359 1 1479330966
+/page/online-report
+164.64.48.60.trm02-home.tm.net.my
+0 97 97 1896886 1 1479317925
+/
+124-adsl.ntc.net.np
+0 11 11 89333 1 1479334194
+/
+27.34.74.230
+0 206 206 3949694 1 1479286976
+/
+static-208-80-194-123.as13448.com
+0 3 0 4682 3 1479337689
+-
+202.51.82.73
+0 98 98 1991899 1 1479296922
+/
+62-210-152-84.rev.poneytelecom.eu
+0 1 1 350400 1 1479339056
+/
+43-adsl.ntc.net.np
+0 107 107 6216554 1 1479289193
+/
+47-adsl.ntc.net.np
+0 98 98 1914142 1 1479321851
+/
+google-proxy-66-102-6-8.google.com
+0 8 1 18910 3 1479304045
+-
+google-proxy-66-102-6-143.google.com
+0 2 2 36762 1 1479333689
+/
+n25-01-05.opera-mini.net
+0 244 244 5530827 1 1479321386
+/
+120.29.114.231
+0 2 1 2028675 1 1479335140
+/
+broadband.actcorp.in
+0 2 1 2059057 1 1479293724
+/
+adsl-41.202.70.40.aviso.ci
+0 2 1 2028671 1 1479333654
+/
+z05-06-09.opera-mini.net
+0 106 106 2787772 1 1479285668
+/
+crawl-66-249-73-159.googlebot.com
+0 13 6 744938 3 1479275510
+-
+sogouspider-123-126-113-149.crawl.sogou.com
+0 10 10 42417 0 0
+-
+46.166.148.153
+0 28 0 70308 1 1479326138
+/
+baiduspider-180-76-15-144.crawl.baidu.com
+0 1 1 584000 1 1479303599
+/
+baiduspider-180-76-15-151.crawl.baidu.com
+0 1 1 17517 1 1479297682
+/
+baiduspider-180-76-15-155.crawl.baidu.com
+0 1 1 17508 1 1479303597
+/
+crawl-66-249-73-163.googlebot.com
+0 6 5 7711815 2 1479273068
+/
+n23-01-06.opera-mini.net
+0 105 105 2070779 1 1479262973
+/
+27.34.115.181
+0 113 113 2225898 1 1479302820
+/
+s11.h.mchost.ru
+0 1 0 644 1 1479311379
+-
+msnbot-40-77-167-72.search.msn.com
+0 5 4 42981 0 0
+-
+n20-02-03.opera-mini.net
+0 104 104 2059526 1 1479292640
+/
+217.17.249.161
+0 85 85 1189231 1 1479302575
+/
+baiduspider-180-76-15-19.crawl.baidu.com
+0 1 0 1109 0 0
+-
+kgo-ds-df2.accessworld.net
+0 98 98 1968098 1 1479290704
+/
+baiduspider-180-76-15-8.crawl.baidu.com
+0 2 2 607336 1 1479314657
+/
+baiduspider-180-76-15-33.crawl.baidu.com
+0 1 1 17508 1 1479314651
+/
+p3slh161.shr.phx3.secureserver.net
+0 1 0 642 1 1479312437
+-
+servidor1101.controladordns.com
+0 1 0 654 1 1479310825
+-
+static-208-80-194-122.as13448.com
+0 3 0 4682 3 1479337690
+-
+crawl-66-249-79-69.googlebot.com
+0 12 3 47454 2 1479338765
+-
+63.243.252.61
+0 1 0 1098 0 0
+-
+103.58.144.11
+0 197 197 3846704 2 1479295377
+/
+103.58.144.16
+0 112 110 2330817 1 1479320844
+/
+163-172-65-247.rev.poneytelecom.eu
+0 1 0 1106 0 0
+-
+101-adsl.ntc.net.np
+0 138 107 3007764 1 1479288625
+/page/online-report
+113.199.176.142
+0 98 98 1896747 1 1479302887
+/
+mail.petrovalve.com
+0 3 2 32735 0 0
+-
+173-208-39-136.ipvnow.com
+0 1 1 17501 1 1479258832
+/
+www2215.sakura.ne.jp
+0 1 0 642 1 1479293323
+-
+msnbot-199-30-24-75.search.msn.com
+0 2 2 197010 0 0
+-
+google-proxy-64-233-173-30.google.com
+0 70 62 1102626 1 1479335526
+/
+static-208-80-194-30.as13448.com
+0 16 0 21648 5 1479330136
+-
+197-248-214-54.safaricombusiness.co.ke
+0 97 97 1896865 1 1479326546
+/
+163-172-65-192.rev.poneytelecom.eu
+0 1 1 17445 1 1479313921
+/
+spider-93-158-152-63.yandex.com
+0 2 0 2207 0 0
+-
+s31-05-08.opera-mini.net
+0 97 97 1901373 1 1479306218
+/
+35-adsl.ntc.net.np
+0 107 105 1971324 1 1479298434
+/
+163-172-65-121.rev.poneytelecom.eu
+0 1 0 1104 0 0
+-
+145-adsl.ntc.net.np
+0 3 3 130617 1 1479321030
+/
+125.217.166.202.ether.static.wlink.com.np
+0 606 603 21046827 3 1479309215
+/
+149-adsl.ntc.net.np
+0 125 125 3198670 1 1479312118
+/search
+crawl-66-249-65-12.googlebot.com
+0 4 3 39253 2 1479318234
+-
+111.119.41.191
+0 118 117 2354826 2 1479313039
+/
+google-proxy-66-249-82-102.google.com
+0 60 60 1163602 0 0
+-
+27.34.108.250
+0 422 419 9002460 1 1479336038
+/
+183.90.37.102
+0 132 104 2120194 1 1479306241
+/
+sogouspider-123-126-113-126.crawl.sogou.com
+0 3 3 18193 1 1479268992
+/
+gw-cluster011.ovh.net
+0 1 0 644 1 1479291250
+-
+spider-5-255-253-48.yandex.com
+0 1 0 1100 0 0
+-
+114.143.194.102
+0 97 97 1897056 1 1479293267
+/
+n17-13-03.opera-mini.net
+0 97 97 1891613 1 1479284876
+/
+baiduspider-123-125-71-116.crawl.baidu.com
+0 1 1 364 0 0
+-
+178-adsl.ntc.net.np
+0 17 17 244664 1 1479275294
+/
+google-proxy-64-233-173-17.google.com
+0 32 32 516731 0 0
+-
+27.34.0.51
+0 142 142 2636518 1 1479324866
+/contact-us
+203.116.157.130
+0 99 99 1985667 2 1479292225
+/
+163.195.16.74
+0 136 136 2228259 2 1479317948
+/
+208.211.166.202.ether.static.wlink.com.np
+0 97 97 1897051 1 1479297432
+/
+static.34.59.201.138.clients.your-server.de
+0 9 9 1152334 1 1479310138
+/
+ip-static-94-242-221-70.server.lu
+0 1 1 58400 1 1479316193
+/
+google-proxy-66-102-6-4.google.com
+0 4 0 3635 3 1479304044
+-
+ip5f5afd19.dynamic.kabel-deutschland.de
+0 2 1 2059057 1 1479272589
+/
+baiduspider-180-76-15-154.crawl.baidu.com
+0 1 1 582540 1 1479297683
+/
+120.89.103.107
+0 116 107 2101925 2 1479326213
+/contact-us
+103.250.134.12
+0 227 195 3576698 2 1479321453
+/page/online-report
+116.90.224.122
+0 56 56 986705 1 1479310901
+/
+msnbot-207-46-13-49.search.msn.com
+0 5 5 42988 2 1479328463
+/
+n11-01-02.opera-mini.net
+0 449 398 8493323 1 1479287100
+/
+n16-06-01.opera-mini.net
+0 76 76 1581850 1 1479288195
+/
+crawl-66-249-79-77.googlebot.com
+0 40 29 397714 11 1479331049
+/
+crawl-66-249-65-60.googlebot.com
+0 89 46 378543 1 1479329215
+/
+45.112.176.136
+0 15 15 168651 1 1479319040
+/
+msnbot-207-46-13-147.search.msn.com
+0 3 1 3745 0 0
+-
+crawl-66-249-65-16.googlebot.com
+0 5 3 46649 2 1479338757
+-
+google-proxy-66-102-7-166.google.com
+0 1 1 19638 0 0
+-
+dedi-fr-35770.tuvixhosting.nl
+0 3 2 2029082 1 1479340080
+-
+baiduspider-180-76-15-21.crawl.baidu.com
+0 1 1 551880 1 1479308135
+/
+163.53.24.130
+0 107 107 2786217 1 1479327130
+/search
+103.235.196.46
+0 104 104 2758454 1 1479328843
+/page/online-report
+spider-178-154-189-7.yandex.com
+0 4 3 2277 0 0
+-
+ptr-41-222-89-245-dsalaam.tz.bellafrica.net
+0 97 97 1897058 1 1479299123
+/
+baiduspider-180-76-15-32.crawl.baidu.com
+0 1 0 1113 0 0
+-
+209-adsl.ntc.net.np
+0 4 4 38409 1 1479285712
+/
+103.235.196.53
+0 2 2 22968 1 1479297400
+/
+static-208-80-194-126.as13448.com
+0 1 0 2038 1 1479323606
+-
+163-172-65-119.rev.poneytelecom.eu
+0 1 1 17257 1 1479323699
+/
+103.235.199.233
+0 4 3 33563 1 1479300794
+-
+113.199.228.88
+0 773 773 15107922 5 1479315132
+/
+opensy8.lnk.telstra.net
+0 2 2 2057904 1 1479280163
+/
+163.53.24.151
+0 3 3 16291 1 1479300819
+/search
+116.66.196.89
+0 7 7 56588 1 1479336093
+/
+crawl-66-249-79-101.googlebot.com
+0 128 24 316158 5 1479286226
+/
+202.70.82.188
+0 98 98 1991725 1 1479331697
+/
+54.223.166.202.ether.static.wlink.com.np
+0 28 28 280548 1 1479297451
+/
+103.250.134.80
+0 1 1 17539 1 1479316253
+/
+google-proxy-64-233-173-29.google.com
+0 70 60 1155409 1 1479289616
+/
+103.206.131.149
+0 1 0 11765 1 1479316194
+/
+119.157.135.104
+0 3 0 3336 0 0
+-
+baiduspider-123-125-71-14.crawl.baidu.com
+0 1 0 1124 0 0
+-
+8.37.230.32
+0 130 130 2246202 1 1479286839
+/
+249-adsl.ntc.net.np
+0 172 169 4283503 1 1479303944
+/page/rate-list
+27.34.76.198
+0 6 6 104629 2 1479311939
+/
+27.34.26.243
+0 119 114 2139534 3 1479302109
+/
+120.89.103.50
+0 102 102 1920936 1 1479298004
+/
+198.27.100.223
+0 1 0 2059 0 0
+-
+202.70.70.197
+0 5 5 93851 1 1479296606
+/
+crawl-66-249-79-74.googlebot.com
+0 1 0 2829 1 1479291839
+-
+113.199.231.62
+0 194 194 3794100 2 1479312001
+/
+pc182.nwhcn.org.au
+0 98 98 1914583 1 1479297574
+/
+cust160-39.classic.com.np
+0 1185 1058 21488951 5 1479318509
+/publication
+n13-07-05.opera-mini.net
+0 102 102 1992186 1 1479293247
+/
+168.235.207.225
+0 171 107 3112954 1 1479303263
+/
+n30-01-05.opera-mini.net
+0 192 192 3902086 1 1479335394
+/
+110.44.115.104
+0 97 97 1897054 1 1479294206
+/
+iom-vlan224.nren.net.np
+0 1 0 1114 0 0
+-
+36.253.254.200
+0 5 5 102938 0 0
+-
+188-adsl.ntc.net.np
+0 3 2 32715 1 1479305908
+-
+crawl-66-249-79-105.googlebot.com
+0 36 9 179218 9 1479327171
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.google.com.au/
+0 5
+https://nphl.mavorion.com/photogallery/detail/1
+1 10
+https://nphl.mavorion.com/photogallery/detail/2
+0 9
+https://nphl.mavorion.com/admin/departments/24/edit
+1 1
+- (Direct Request)
+0 1113
+https://www.google.com.np/
+0 104
+https://www.nphl.mavorion.com/
+1 192
+https://nphl.mavorion.com/admin/post/create
+1 29
+https://nphl.mavorion.com/admin/staffmanagement/154/edit
+1 4
+http://www.nphl.gov.np/assets/backend/css/main.min.css
+1 16
+http://www.nphl.gov.np/admin/post
+1 86
+http://www.nphl.gov.np/contact-us
+1 39
+http://nphl.gov.np/stafflist
+1 198
+https://www.nphl.mavorion.com/wp-admin
+1 2
+http://nphl.gov.np/
+1 2495
+http://int.search.myway.com/search/GGmain.jhtml
+0 2
+http://www.nphl.gov.np/page/message-from-the-director
+1 10
+https://nphl.mavorion.com/admin/staffmanagement/155/edit
+1 4
+https://www.nphl.mavorion.com/stafflist/collectionandcoutner
+1 10
+http://nphl.mavorion.com/assets/frontend/css/mdb.min.css
+0 6
+http://www.nphl.gov.np/assets/backend/css/fileinput.css
+1 2
+http://nphl.gov.np/assets/frontend/css/bootstrap.min.css
+1 18
+http://www.google.com/search
+0 3
+https://nphl.mavorion.com/admin/post
+1 3
+https://nphl.mavorion.com/contact-us
+1 21
+http://www.nphl.gov.np/page/online-report
+1 134
+https://nphl.mavorion.com/stafflist/biochemistry
+1 11
+https://www.google.co.nz/
+0 11
+https://nphl.mavorion.com/assets/backend/skins/dropify/css/dropify.css
+1 3
+https://nphl.mavorion.com/admin/departments/3/edit
+1 6
+http://www.nphl.gov.np/downloads/Pari-Patra.pdf
+1 8
+https://nphl.mavorion.com/assets/plugins/kendo-ui/styles/kendo.material.min.css
+1 1
+https://www.nphl.mavorion.com/images/thumbnails/staffmanagement-295-385-1477493939-staff-photo.jpg
+1 1
+http://nphl.mavorion.com/stafflist/biochemistry
+0 3
+https://www.facebook.com/
+0 1
+https://www.google.com.sg/
+0 44
+http://nphl.gov.np/downloads/lab_assessment_report_final_9584.pdf
+1 5
+http://googleweblight.com/
+0 5
+https://nphl.mavorion.com/
+1 5300
+https://www.google.co.uk/
+0 4
+http://nphl.gov.np/index.php/page/downloads/DHODhading.pdf
+1 12
+https://www.nphl.mavorion.com/photogallery/detail/2
+1 10
+https://www.google.com.bh/
+0 3
+http://www.nepalica.com/clicked/
+0 1
+https://nphl.mavorion.com/stafflist/biosafety
+1 5
+https://nphl.mavorion.com/admin/departments
+1 14
+https://nphl.mavorion.com/admin/login
+1 32
+http://www.nphl.gov.np/photogallery
+1 26
+http://www.nphl.gov.np/
+1 9459
+http://www.nphl.gov.np/index.php/page/online-report
+1 15
+http://www.nphl.gov.np/assets/plugins//kendo-ui-core/styles/kendo.material.min.css
+1 2
+https://www.nphl.mavorion.com/photogallery
+1 8
+https://nphl.mavorion.com/admin/staffmanagement/140/edit
+1 4
+http://www.bing.com/search
+0 1
+https://nphl.mavorion.com/assets/backend/css/main.min.css
+1 2
+http://nphl.gov.np/cpanel
+1 3
+http://nphl.gov.np/photogallery
+1 7
+https://www.nphl.mavorion.com/assets/frontend/css/blueimp-gallery.css
+1 2
+https://nphl.mavorion.com/admin/staffmanagement/26/edit
+1 4
+https://nphl.mavorion.com/admin/staffmanagement/98/edit
+1 4
+android-app://com.google.android.googlequicksearchbox
+0 2
+http://www.nphl.gov.np/downloads/TenderNotice2073.05.31.pdf
+1 2
+https://nphl.mavorion.com/admin/staffmanagement/141/edit
+1 5
+http://www.nphl.gov.np/assets/frontend/css/font-awesome.min.css
+1 4
+http://www.nphl.gov.np/index.php
+1 2151
+android-app://com.google.android.googlequicksearchbox/https/www.google.com
+0 1
+https://www.nphl.mavorion.com/archieve
+1 4
+http://www.google.com.np/search
+0 13
+http://www.nphl.gov.np/patient_report_central.php
+1 68
+http://www.nphl.gov.np/assets/frontend/css/mdb.min.css
+1 13
+https://nphl.mavorion.com/admin/staffmanagement/27/edit
+1 4
+http://nphl.gov.np/archieve
+1 1
+https://www.nphl.mavorion.com/admin/login
+1 7
+http://www.google.com/url
+0 3
+https://nphl.mavorion.com/assets/plugins//kendo-ui-core/styles/kendo.material.min.css
+1 1
+https://nphl.mavorion.com/page/rate-list
+1 113
+https://nphl.mavorion.com/publication
+1 2
+https://www.google.com.kh/
+0 1
+http://nphl.gov.np/index.php/page/downloads/2072-1-18.pdf
+1 12
+https://nphl.mavorion.com/assets/backend/skins/tinymce/material_design/skin.min.css
+1 3
+https://nphl.mavorion.com/admin/departments/7/edit
+1 1
+https://nphl.mavorion.com/archieve
+1 6
+http://nphl.gov.np/assets/frontend/css/font-awesome.min.css
+1 1
+http://nphl.gov.np/assets/frontend/css/mdb.min.css
+1 2
+http://www.nphl.gov.np/stafflist
+1 197
+http://www.nphl.gov.np/admin/gallerysetting/test/create
+1 4
+http://www.google.com.np/
+0 1
+https://www.google.com/
+0 5
+https://nphl.gov.np/page/rate-list
+1 27
+https://nphl.mavorion.com/page/index.php
+0 13
+https://nphl.mavorion.com/page/message-from-the-director
+1 28
+http://www.nphl.gov.np/page/index.php
+1 1
+https://nphl.mavorion.com/Admin
+1 4
+http://www.nphl.gov.np/admin/settings
+1 25
+http://nphl.gov.np/downloads/Rules
+1 1
+http://www.nphl.gov.np/admin/login
+1 10
+http://www.nphl.gov.np/page/about
+1 17
+http://www.nphl.gov.np/admin/menu
+1 15
+https://nphl.mavorion.com/stafflist
+1 2615
+https://www.nphl.mavorion.com/publication
+1 1
+https://www.google.co.in/
+0 4
+https://nphl.mavorion.com/assets/frontend/css/bootstrap.min.css
+1 51
+https://www.google.com
+0 3
+http://au.search.yahoo.com/
+0 1
+https://www.nphl.mavorion.com/assets/frontend/css/bootstrap.min.css
+1 2
+https://nphl.mavorion.com/admin/dashboard
+1 18
+http://www.nphl.gov.np/assets/frontend/css/bootstrap.min.css
+1 81
+https://nphl.gov.np/page/index.php
+1 23
+http://www.nphl.gov.np/search
+1 13
+https://nphl.mavorion.com/admin/albumsetting
+1 14
+http://nphl.gov.np/photogallery/detail/1
+1 8
+http://nphl.gov.np/photogallery/detail/2
+1 9
+https://nphl.gov.np/
+1 95
+https://nphl.gov.np/photogallery/detail/index.php
+1 3
+https://nphl.mavorion.com/assets/frontend/css/mdb.min.css
+1 6
+https://www.google.co.th/
+0 2
+https://nphl.mavorion.com/page/about
+1 21
+https://nphl.gov.np/assets/frontend/css/bootstrap.min.css
+1 1
+https://nphl.mavorion.com/admin/menu
+1 24
+https://nphl.mavorion.com/admin/staffmanagement
+1 10
+https://nphl.mavorion.com/stafflist/influenza
+0 3
+http://www.nphl.gov.np/admin/gallerysetting/album-2/create
+1 4
+http://www.midas.com.np/hospital/patient_report_detail.php
+0 4
+http://nphl.mavorion.com/
+0 91
+https://nphl.mavorion.com/nphladmin
+1 2
+http://www.nphl.gov.np/publication
+1 42
+http://www.nphl.gov.np/archieve
+1 15
+https://nphl.gov.np/index.php
+1 1
+http://www.nphl.gov.np/admin/albumsetting
+1 36
+http://www.nphl.gov.np/onlinereport.php
+1 37
+https://nphl.mavorion.com/photogallery
+1 17
+http://nphl.mavorion.com/photogallery
+0 22
+https://www.google.com.pk/
+0 3
+http://www.nphl.gov.np/assets/backend/skins/tinymce/material_design/skin.min.css
+1 1
+http://nphl.gov.np/contact-us
+1 1
+http://nphl.gov.np/page/online-report
+1 25
+http://www.nphl.gov.np/admin/dashboard
+1 8
+http://nphl.gov.np/index.php
+1 151
+http://au.search.yahoo.com/search
+0 4
+https://nphl.mavorion.com/search
+1 4
+http://www.google.com.np/blank.html
+0 2
+http://nphl.mavorion.com/cpanel
+0 3
+http://l.facebook.com/lsr.php
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.87 Safari/537.36
+0 98
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 14
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 17
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50
+0 2
+Mozilla/4.0(compatible;MSIE 7.0;Windows NT 6.1;SV1;.NET CLR 1.0.3705;.NET CLR 3.0.30618)
+0 1
+Opera/9.80 (Android; Opera Mini/20.0.2254/37.9093; U; en) Presto/2.12.423 Version/12.16
+0 152
+Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.68 Mobile Sa
+0 7
+Mozilla/5.0 (Linux; Android 4.4.2; T1 7.0 Build/HuaweiMediaPad) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Sa
+0 75
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 3
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.152 Safari/537.22
+0 103
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.91 Safari/534.30
+0 1
+Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+0 16
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+0 85
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.53 Safari/533.4
+0 1
+Googlebot-Image/1.0
+0 73
+Mozilla/5.0 (Windows NT 5.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1678.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 363
+Mozilla/5.0 (Linux; Android 6.0.1; E6653 Build/32.2.A.0.253) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobil
+0 132
+Mozilla/5.0 (Linux; Android 6.0.1; ONEPLUS A3003 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mob
+0 123
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Sa
+0 115
+Mozilla/5.0 (Android 5.1.1; Mobile; rv:41.0) Gecko/41.0 Firefox/41.0
+0 97
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/18.1.132077863 Mobile/14
+0 122
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) CriOS/47.0.2526.107 Mobile/1
+0 7
+Mozilla/5.0 (Android 5.1.1; Mobile; rv:41.0.2) Gecko/41.0.2 Firefox/41.0.2
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; SM-T561 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Safari/53
+0 125
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+0 328
+Mozilla/5.0 (Linux; Android 4.4.4; T1-A21w Build/HuaweiMediaPad) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 S
+0 187
+Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G36 Safari/601.1
+0 736
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14
+0 97
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+0 212
+Opera/9.80 (Android; Opera Mini/5.1.24639/37.9093; U; en) Presto/2.12.423 Version/12.16
+0 244
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/14A551 
+0 135
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G7102 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile S
+0 112
+Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-J200H Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.5 C
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G610F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile S
+0 109
+Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 C
+0 100
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/11.04 Chromium/12.0.742.112 Chrome/12.0.742.112
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/54.0.2840.66 Mobile/1
+0 128
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; SM-J210F Build/MMB29Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/49.0.
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 1
+Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG GT-I9506 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 C
+0 105
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J200H Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.68 Mobile S
+0 97
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+0 1358
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.151 Safari/534.16
+0 2
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+0 161
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko)
+0 1
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.13) Gecko/20101206 Ubuntu/10.04 (lucid) Firefox/3.6.13
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/54.0.2840.91 Mobile/1
+0 70
+Mozilla/5.0 (Linux; U; Android 2.3.6; en-gb; GT-S5360 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mo
+0 142
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)
+0 110
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+0 1171
+Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile Sa
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)
+0 9
+Mozilla/5.0 (Windows NT 5.1; rv:49.0) Gecko/20100101 Firefox/49.0
+0 773
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 601
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 138
+Dalvik/2.1.0 (Linux; U; Android 5.1; HUAWEI TAG-L22 Build/HUAWEITAG-L22)
+0 2
+Mozilla/5.0 (compatible; SEOkicks-Robot; +http://www.seokicks.de/robot.html)
+0 9
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 22
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 5
+Mozilla/5.0 (Linux; Android 5.1; A1601 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile Safari
+0 112
+Opera/9.80 (Android; Opera Mini/7.5.35721/37.9093; U; en) Presto/2.12.423 Version/12.16
+0 182
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.2 Safari/537.17
+0 99
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 97
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 ASW/1.51.2220.62
+0 97
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.11) Gecko/20101013 Ubuntu/10.04 (lucid) Firefox/3.6.11
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+0 97
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+0 316
+Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.68 Mobile S
+0 98
+Mozilla/5.0 (Windows NT 6.1; rv:44.0) Gecko/20100101 Firefox/44.0
+0 98
+Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko; googleweblight) Chrome
+0 17
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G7102 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile 
+0 11
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 139
+Mozilla/5.0 (Linux; Android 4.4.4; SM-J100H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile S
+0 34
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+0 195
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+0 1113
+Safari/12602.1.50.0.10 CFNetwork/807.0.4 Darwin/16.0.0 (x86_64)
+0 2
+Opera/9.80 (Android; Opera Mini/7.5.31657/37.9093; U; en) Presto/2.12.423 Version/12.16
+0 449
+Mozilla/5.0 (Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.1
+0 172
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0 Mobile/14B100 
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:49.0) Gecko/20100101 Firefox/49.0
+0 98
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safar
+0 116
+Mozilla/5.0 (Linux; Android 4.4.4; SM-J110H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+0 107
+Mozilla/5.0 (Linux; Android 6.0; HUAWEI NMO-L31 Build/HUAWEINMO-L31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.
+0 197
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; MACHONE Build/KOT49H)
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+0 937
+Mozilla/5.0 (Linux; Android 5.1; HUAWEI TAG-L22 Build/HUAWEITAG-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.
+0 106
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_0 like Mac OS X) AppleWebKit/602.1.38 (KHTML, like Gecko) Version/10.0 Mobile/14A300 Sa
+0 3
+Dorado WAP-Browser/1.0.0
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.94 Safari/534.13
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:50.0) Gecko/20100101 Firefox/50.0
+0 99
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.133 Safari/534.16
+0 1
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 269
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:49.0) Gecko/20100101 Firefox/49.0
+0 778
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.52.7 (KHTML, like Gecko) Version/5.1 Safari/534.50
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.87 Safari/537.36
+0 102
+Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/18.1.132077863 Mobile/13G36 Safari
+0 107
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+0 317
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.87 Safari/537.36
+0 316
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+0 1013
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 8
+Safari/12602.2.14.0.7 CFNetwork/807.1.3 Darwin/16.1.0 (x86_64)
+0 11
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.6.2840.71 Safari/537.36
+0 106
+Mozilla/5.0 (Linux; Android 4.4.2; Micromax E311 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mob
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:50.0) Gecko/20100101 Firefox/50.0
+0 97
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.7) Gecko/20100713 Firefox/3.6.7
+0 3
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+0 15
+Mozilla/5.0 (Linux; Android 5.1.1; SCL-AL00 Build/HuaweiSCL-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 
+0 4
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+0 24
+Mozilla/5.0 (Windows NT 6.1; rv:49.0) Gecko/20100101 Firefox/49.0
+0 652
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+0 97
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+0 1207
+Mozilla/5.0 (Windows NT 5.1) Gecko/20100101 Firefox/7.0.1
+0 1
+Mozilla/5.0 (Linux; Android 6.0; CHC-U01 Build/HuaweiCHC-U01) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobi
+0 100
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0
+0 97
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-J700H Build/MMB29K)
+0 2
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; SM-A700FD) U2/1.0.0 UCBrowser/10.4.0.641 U2/1.0.0 Mobile
+0 171
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.2; en-GB; rv:1.9b4) Gecko/2008030714 Firefox/3.0b4 (.NET CLR 3.5.30729)
+0 28
+Opera/9.80 (Android; Opera Mini/19.0.2254/37.9093; U; en) Presto/2.12.423 Version/12.16
+0 105
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50
+0 1255
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 124
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-J700H Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 C
+0 107
+Mozilla/5.0 (Linux; Android 4.4.4; SM-G360H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile S
+0 241
+Mozilla/5.0 (iPad; CPU OS 9_0_2 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/54.0.2840.91 Mobile/13A452 Safari/
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-PT; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.23) Gecko/20110920 Firefox/3.6.23
+0 1
+Opera/9.80 (Android; Opera Mini/17.0.2211/37.9093; U; en) Presto/2.12.423 Version/12.16
+0 104
+Opera/9.80 (Android; Opera Mini/7.6.40234/37.9093; U; en) Presto/2.12.423 Version/12.16
+0 192
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; MACHONE Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrows
+0 140
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+0 840
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36
+0 19
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0 Mobile/14B150 
+0 99
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
+0 354
+Mozilla/5.0 (compatible; AhrefsBot/5.1; +http://ahrefs.com/robot/)
+0 9
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 1
+Mozilla/5.0 (Windows NT 5.1) Gecko/20100101 Firefox/5.0
+0 2
+Opera/9.80 (Android; Opera Mini/7.6.35843/37.9093; U; en) Presto/2.12.423 Version/12.16
+0 86
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.6.0 Chrome/45.0.2454.101
+0 2
+facebookexternalhit/1.1
+0 1
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+0 97
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-J710F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 C
+0 227
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+0 98
+Mozilla/5.0 (Windows NT 5.1) Gecko/20100101 Firefox/4.0.1
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+0 739
+Opera/9.80 (Android; Opera Mini/18.0.2254/37.9093; U; en) Presto/2.12.423 Version/12.16
+0 107
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 47
+Mozilla/5.0 (Linux; Android 6.0.1; SM-J710F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile S
+0 119
+Mozilla/4.0 (compatible; Synapse)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Saf
+0 99
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+0 194
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+0 468
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/14A456 
+0 427
+# End Of Table - agents
+# -search strings- 
+health minister teku
+1
+www. dohs. gov. np
+1
+ministry of health teku
+1
+www dohs.gov.np
+2
+nphl@wlink.com.np
+6
+national health laboratory
+1
+nphl nepal
+5
+which hiv test kit used as a tie breaker
+2
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
