@@ -100,7 +100,7 @@
 
     <section class="block whitish">
         <div class="container">
-            <div class="fixed whitish" style="background:url(images/parallax2.jpg);"></div>
+            <div class="fixed whitish" style="background:url({{asset('assets/frontend/images/parallax2.jpg')}});"></div>
             <div class="sec-title">
                 <h2><strong>Our</strong> Partners</h2>
             </div>  
