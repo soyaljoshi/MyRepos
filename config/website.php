@@ -12,11 +12,11 @@ return [
     | on sites such as Facebook and Twitter.
     |
     */
-    'name' => 'NPHL',
-    'title' => 'NPHL',
+    'name' => 'VaRG',
+    'title' => 'VaRG',
     'description' => 'National Public health Laboratory (NPHL) is the government national reference laboratory under the Department of health services (DoHS) and Ministry of Health and Population (MoHP).',
-    'author' => 'NPHL',
-    'url' => 'www.nphl.com',
+    'author' => 'VaRG',
+    'url' => 'www.vargnepal.com',
     'adminLogo' => 'assets/backend/img/Nepal.png',
 
     /*
