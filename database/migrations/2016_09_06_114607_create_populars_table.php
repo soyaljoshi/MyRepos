@@ -16,6 +16,7 @@ class CreatePopularsTable extends Migration
             $table->increments('id');
             $table->string('title');
             $table->string('price');
+            $table->text('description');
             $table->string('subtitle');
             $table->integer('status');
             $table->timestamps();

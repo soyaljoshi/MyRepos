@@ -2,36 +2,73 @@
 
     <div id="layerslider" style="width: 100%; height: 530px; margin: 0px auto; ">
     
-        <div class="ls-slide" data-ls="transition3d:53; timeshift:-1000;">          
-            <img src="{{ asset('assets/frontend/images/slider1.jpg') }}" class="ls-bg" alt="Slide background">
-                <h3 class="ls-l slide1" style="top: 203px; left:248px; background: url({{ asset('assets/frontend/images/slider1-img2.png') }}) no-repeat scroll 0 0 / auto 100% transparent; font-family:roboto; font-size:34px; font-weight:bold; color:#4c4c4c; line-height:56px; padding:0 60px 0 60px; ; border-radius:3px;" data-ls="offsetxin:0;offsetyin:bottom;durationin:1000;easingin:easeOutQuad;fadein:false;rotatein:-10;offsetxout:0;durationout:1500;" ><i>SAVE</i> <span>ENVIRONMENT</span></h3>
-                <span class="ls-l slide1"   style="top: 270px; left:248px; font-family:roboto; font-size:24px; font-weight:600; color:#000; padding:10px 20px 10px 50px; background:rgba(255,255,255,0.9); border-radius:4px 0 0px 4px; border-left:2px solid #93b631; position:relative; line-height:22px; float:left;" data-ls="offsetxin:0;offsetyin:top;durationin:1000;easingin:easeOutQuad;fadein:false;rotatein:10;offsetxout:0;durationout:1500;">BE READY TO WORK <i>WITH US</i></span>
-                <p class="ls-l slide1"  style="top: 330px; left:248px; font-family:roboto; font-size:13px; color:#fefefe;" data-ls="delayin:1000; scalein:4; durationin : 1000;">Sed interdum, lacus et vulputate pellentesque, velit nulla commodo <br/> sem, at egestas nulla metus vel sapien! Lorem ipsum dolor</p>
-        </div><!-- Slide1 -->
+    @foreach($slider as $key => $sliders)
 
-        <div class="ls-slide" data-ls="transition3d:12;timeshift:-1000;">           
-            <img src="{{ asset('assets/frontend/images/slider2.jpg') }}" class="ls-bg" alt="Slide background">
+       @if(count($sliders) > 0)
+
+          @if(count($images->getImage('Slider',$sliders->id)) > 0 )
+
+                @foreach($image as $images)
+
+                      @if($images->imageable_type === 'Slider' && $images->imageable_id == $sliders->id )
+                         @if ($key == 0)
+                            <div class="ls-slide" data-ls="transition3d:53; timeshift:-1000;">          
+                              <img src="{{ asset($images->path) }}"  class="ls-bg" alt="Slide background">
+                                    <h3 class="ls-l slide1" style="top: 203px; left:248px; background: url({{ asset('assets/frontend/images/slider1-img2.png') }}) no-repeat scroll 0 0 / auto 100% transparent; font-family:roboto; font-size:34px; font-weight:bold; color:#4c4c4c; line-height:56px; padding:0 60px 0 60px; ; border-radius:3px;" data-ls="offsetxin:0;offsetyin:bottom;durationin:1000;easingin:easeOutQuad;fadein:false;rotatein:-10;offsetxout:0;durationout:1500;" ><i></i> <span> {{ $sliders->title }}</span></h3>
+                                    <span class="ls-l slide1"   style="top: 270px; left:248px; font-family:roboto; font-size:24px; font-weight:600; color:#000; padding:10px 20px 10px 50px; background:rgba(255,255,255,0.9); border-radius:4px 0 0px 4px; border-left:2px solid #93b631; position:relative; line-height:22px; float:left;" data-ls="offsetxin:0;offsetyin:top;durationin:1000;easingin:easeOutQuad;fadein:false;rotatein:10;offsetxout:0;durationout:1500;"><i>{{ $sliders->caption}}</i></span>
+                                    <p class="ls-l slide1"  style="top: 330px; left:248px; font-family:roboto; font-size:13px; color:#fefefe;" data-ls="delayin:1000; scalein:4; durationin : 1000;">{{$sliders->subtitle}}</p>
+                            </div><!-- Slide1 -->
+                          @elseif($key == 1)
+                            <div class="ls-slide" data-ls="transition3d:53; timeshift:-1000;">          
+                                <img src="{{ asset($images->path) }}" " class="ls-bg" alt="Slide background">
+                                    <h3 class="ls-l slide1" style="top: 203px; left:248px; background: url({{ asset('assets/frontend/images/slider1-img2.png') }}) no-repeat scroll 0 0 / auto 100% transparent; font-family:roboto; font-size:34px; font-weight:bold; color:#4c4c4c; line-height:56px; padding:0 60px 0 60px; ; border-radius:3px;" data-ls="offsetxin:0;offsetyin:bottom;durationin:1000;easingin:easeOutQuad;fadein:false;rotatein:-10;offsetxout:0;durationout:1500;" ><i></i> <span>{{ $sliders->title }}</span></h3>
+                                    <span class="ls-l slide1"   style="top: 270px; left:248px; font-family:roboto; font-size:24px; font-weight:600; color:#000; padding:10px 20px 10px 50px; background:rgba(255,255,255,0.9); border-radius:4px 0 0px 4px; border-left:2px solid #93b631; position:relative; line-height:22px; float:left;" data-ls="offsetxin:0;offsetyin:top;durationin:1000;easingin:easeOutQuad;fadein:false;rotatein:10;offsetxout:0;durationout:1500;">{{ $sliders->caption}}<i></i></span>
+                                    <p class="ls-l slide1"  style="top: 330px; left:248px; font-family:roboto; font-size:13px; color:#fefefe;" data-ls="delayin:1000; scalein:4; durationin : 1000;">{{$sliders->subtitle}}</p>
+                            </div><!-- Slide1 -->
+                            @elseif($key == 2)
+                            <div class="ls-slide" data-ls="transition3d:12;timeshift:-1000;">           
+            <img src="{{ asset($images->path) }}"  class="ls-bg" alt="Slide background">
                 <h3 class="ls-l slide3" style="top:196px; left:100px; font-family: roboto; color: #FFFFFF; line-height:22px; font-size:32px; background:rgba(0,0,0,0.85); padding:18px 30px; border-radius:3px;" data-ls="offsetxin:0; scalexin:0; scaleyin:0; offsetxout:0; offsetyout:top; durationin:1500; durationout:800; showuntil:2000; fadeout:false;"> 
-                        HELP <i>US</i> TO HELP OTHERS</h3>
+                        <i></i> {{ $sliders->title }}</h3>
                         
                 <h4 class="ls-l slide3" style="top:265px; left:100px; background:rgba(152,212,96,0.85); font-family: roboto; color: #FFFFFF; font-size:28px; line-height:26px; padding:10px 20px; border-radius:3px;" data-ls="offsetxin:0; scalexin:0; scaleyin:0; offsetxout:0; offsetyout:top; durationin:1500; durationout:800; delayin:500; showuntil:2500;fadeout:false;">
-                        RESPONSIVE <span>TEMPLATE</span></h4>
+                        {{ $sliders->caption}}<span></span></h4>
             
                 <h5 class="ls-l slide3" style="top:319px; left:100px; background:rgba(255,255,255,0.85); color:#595858; font-family:roboto; font-size:24px; line-height: 20px; padding:10px 20px; border-radius:3px;" data-ls="offsetxin:0; scalexin:0; scaleyin:0; offsetxout:0; offsetyout:top; durationin:1500; durationout:800; delayin:1000; showuntil:3000;fadeout:false;">
-                        CREATIVE <span>IDEAS</span></h5>
+                        {{$sliders->subtitle}} <span></span></h5>
         </div><!-- Slide2 -->
-        
-        <div class="ls-slide" data-ls="transition3d:35;timeshift:-1000;">           
-            <img src="{{ asset('assets/frontend/images/slider3.jpg') }}" class="ls-bg" alt="Slide background">
-                <h3 class="ls-l" style="top: 160px; left:160px; font-family:roboto; font-size:72px; font-weight:bold; color:#fff; line-height:60px; text-align:center;" data-ls="offsetxin:0;offsetyin:top;durationin:1500;delayin:1000;easingin:easeInOutQuart;fadein:false;scalexin:0;scaleyin:0;offsetxout:0;offsetyout:top;durationout:1000;fadeout:false;" >I WANNA SAY <span>SOMETHING</span></h3>
+                            @elseif($key == 3)
+                            <div class="ls-slide" data-ls="transition3d:35;timeshift:-1000;">           
+            <img src="src="{{ asset($images->path) }}"  class="ls-bg" alt="Slide background">
+                <h3 class="ls-l" style="top: 160px; left:160px; font-family:roboto; font-size:72px; font-weight:bold; color:#fff; line-height:60px; text-align:center;" data-ls="offsetxin:0;offsetyin:top;durationin:1500;delayin:1000;easingin:easeInOutQuart;fadein:false;scalexin:0;scaleyin:0;offsetxout:0;offsetyout:top;durationout:1000;fadeout:false;" ><span>{{ $sliders->title }}</span></h3>
                 
-                <span class="ls-l slide3-subtitle" style="top: 248px; left:160px; padding:13px; border-radius:3px; color:#fff; font-family:open sans; font-weight:900; font-size:26px; text-transform:uppercase; line-height:20px;" data-ls="offsetxin:0;offsetyin:bottom;durationin:1500;delayin:1200;easingin:easeInOutQuart;fadein:false;scalexin:0;scaleyin:0;offsetxout:0;offsetyout:top;durationout:1000;fadeout:false;">Please Feel My <i style="font-style:normal; color:#373737;">Tension</i></span>
+                <span class="ls-l slide3-subtitle" style="top: 248px; left:160px; padding:13px; border-radius:3px; color:#fff; font-family:open sans; font-weight:900; font-size:26px; text-transform:uppercase; line-height:20px;" data-ls="offsetxin:0;offsetyin:bottom;durationin:1500;delayin:1200;easingin:easeInOutQuart;fadein:false;scalexin:0;scaleyin:0;offsetxout:0;offsetyout:top;durationout:1000;fadeout:false;"> <i style="font-style:normal; color:#373737;">{{$sliders->caption}}</i></span>
 
-                <span class="ls-l slide3-subtitle2" style="top: 248px; left:750px; background:rgba(0,0,0,0.8); padding:13px; border-radius:3px; color:#fff; font-family:open sans; font-weight:900; font-size:26px; text-transform:uppercase; line-height:20px;" data-ls="offsetxin:0;offsetyin:bottom;durationin:1500;delayin:1300;easingin:easeInOutQuart;fadein:false;scalexin:0;scaleyin:0;offsetxout:0;offsetyout:top;durationout:1000;fadeout:false;">We <i style="font-style:normal;">Need</i> Your Help</span>
+                <span class="ls-l slide3-subtitle2" style="top: 248px; left:750px; background:rgba(0,0,0,0.8); padding:13px; border-radius:3px; color:#fff; font-family:open sans; font-weight:900; font-size:26px; text-transform:uppercase; line-height:20px;" data-ls="offsetxin:0;offsetyin:bottom;durationin:1500;delayin:1300;easingin:easeInOutQuart;fadein:false;scalexin:0;scaleyin:0;offsetxout:0;offsetyout:top;durationout:1000;fadeout:false;"><i style="font-style:normal;"></i> {{$sliders->subtitle}}</span>
         </div><!-- Slide3 -->
+                         @endif
+                      @endif
+
+              @endforeach                                            
+
+        @endif 
+
+        @else
+
+          <img src="{{ asset('assets/frontend/img/slider_placeholder.png')}}" alt="img-fluid">
+
+        @endif
+
+    @endforeach  
+
+
 
         
-        <div class="ls-slide" data-ls="transition3d:75;timeshift:-1000;">           
+        
+        
+
+        
+        {{-- <div class="ls-slide" data-ls="transition3d:75;timeshift:-1000;">           
             <img src="{{ asset('assets/frontend/images/slider4.jpg') }}" class="ls-bg" alt="Slide background">
             
             <h3 class="ls-l slide4" style="top:180px; left:150px; background:rgba(0,0,0,0.9); font-family:roboto; font-size:36px; font-weight:bold; color:#fefefe; padding:20px 60px 20px; border-radius:4px;" data-ls="offsetxin:bottom;durationin:2000;delayin:1000;easingin:easeInOutQuart;fadein:false;scalexin:100;scaleyin:0;offsetxout:right;durationout:1400;fadeout:false;">
@@ -60,7 +97,7 @@
             <h3 class="ls-l" style="top:190px; left:50%; color:#FFF; font-family:open sans; font-size:60px; font-weight:300;" data-ls="durationin:1500; delayin:1000; easingin:easeOutQuart; fadein:false; easingout:easeInQuart; rotatexin:-90deg;">LET'S BUILD <span style="font-weight:700;">THE WORLD.</span></h3>
             <p class="ls-l" style="top:290px; left:50%; line-height:30px; color:#FFF; font-family:noto sans; font-size:14px; text-align:center;" data-ls="durationin:1500; delayin:1500; easingin:easeOutQuart; fadein:false; easingout:easeInQuart; rotatexin:-90deg;">With easy to use Drag and Drop Page Builder build professional looking page with best slider <br />Layer. Lorem ipsum dolor sit amet, consectetur</p>
             <div class="ls-l slide-donate2" style="top:370px; left:50%; font-family:open sans; font-size:12px; font-weight:400; color:#FFF; padding:10px 20px; border-radius:3px;" data-ls="durationin:1500; delayin:2000; easingin:easeOutQuart; fadein:false; easingout:easeInQuart; rotatexin:-90deg;"><a href="#" title=""><i class="icon-heart"></i> DONATE NOW</a></div>
-        </div>
+        </div> --}}
 
         
     </div>

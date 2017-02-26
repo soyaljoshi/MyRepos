@@ -33,17 +33,20 @@
         <div class="logo">
             <a href="#" title=""><img src="{{ asset('assets/frontend/images/vargnepal.png') }}" alt="Logo" /><h1><i>V</i>aRG</h1></a>
         </div><!-- Logo -->
-        
-
         <nav class="menu">
             <ul id="menu-navigation">
             @foreach ($menuManager->mymenu() as $key => $menus)
               @if($menus->parent_id === 0)
-                <li class="active"><a href="{{ url('/') }}"><i class="icon-circle"></i>{{$menus->name}}</a>
-                  <ul>
-                    <li><a href="#">menu 1 </a></li>
-                    <li><a href="#">menu 1 </a></li>
-
+                <li @if( Request::path() ===  $menus->slug )class="active"@elseif(Request::path()=="/" && $key===0 )class="active" @endif>
+                    <a href="{{$menus->url}}"><i class="icon-circle"></i>{{$menus->name}}</a>
+                <ul>
+                    @foreach ($menuManager->submenu()  as $keys => $smenu)
+                        @foreach ($smenu  as $keyss => $submenu)
+                            @if($menus->id == $submenu->parent_id)
+                                <li><a href="{{ $submenu->url }}">{{ $submenu->name }}</a></li>
+                            @endif
+                        @endforeach
+                    @endforeach
                   </ul>
                 </li>
               @endif

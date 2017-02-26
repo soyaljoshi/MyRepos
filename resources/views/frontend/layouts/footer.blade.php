@@ -40,7 +40,11 @@
                     <h4><strong><span>S</span>ite</strong> Map</h4>
                 </div>
                 <ul class="contact-details">
-                    <li><a href="index.html" title=""><em>HOME</em></a></li>
+                 @foreach ($menuManager->mymenu() as $key => $menus)
+                    @if($menus->parent_id === 0)
+                    <li><a href="{{$menus->url}}" title=""><em>{{$menus->name}}</em></a></li>
+                    @endif
+                @endforeach
                 </ul>
             </div>
             <div class="col-md-3">

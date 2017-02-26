@@ -136,12 +136,17 @@ class Post extends Model
      public function getPost($id)
     {
             $current_date = Carbon::now();
-             
+            if ($id == 3) {
+                $limit = 2;
+             }else{
+                 $limit =4;
+             } 
             return DB::table('postsview')
             ->where('tag_id', $id)
             ->where('published_at','<=',$current_date)
             ->where('expired_at','>=',$current_date)
             ->orderBy('published_at','desc')
+            ->limit($limit)
             ->get();
     }
 

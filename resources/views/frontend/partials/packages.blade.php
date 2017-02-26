@@ -1,43 +1,42 @@
-<!-- Health Pacakges START --> 
-        <section class="Clinical_Ceo section-padding  sd_sec_bg" >
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="section_title">
-                            <h2 class="sec_Hd"> <span>Health Packages</span></h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row area_content">
-                    <div class="col-md-12">
-                        <div class="package" style="position: relative;" >
-                            @if(count($packages) > 0)
-                                <div class="package_nav" style="position: absolute;  right: -20px;  top: -92px;width: 9.5%;">
-                                    <i class="fa fa-angle-left testi_prev"></i>
-                                    <i class="fa fa-angle-right testi_next"></i>
+<section class="block whitish">
+        <div class="container">
+            <div class="fixed whitish" style="background:url({{asset('assets/frontend/images/parallax2.jpg')}});"></div>
+            <div class="sec-title">
+                <h2><strong>Our</strong> Partners</h2>
+            </div>  
+            <div class="mission-carousel">
+                <ul class="slides">
+                    <li>                
+                        <div class="row">
+                        @foreach($packages as $key => $package)
+                            <div class="col-md-3">
+                                <div class="service">
+                                @if(count($images->getImage('Package',$package->id)) > 0 )
+                                    @foreach($image as $images)
+                                        @if($images->imageable_type === 'Package' && $images->imageable_id == $package->id )
+                                            <img class="home_popular" src="{{ asset($images->thumbnail(141,139)) }}" alt="">
+                                        @endif
+                                    @endforeach                                            
+                                @else 
+                                      <img src="{{ asset('assets/frontend/images/blank-image.jpg') }}" alt="" />
+                                @endif
+                                    
+                                    <h4><span>{{$package->title}}</span></h4>
                                 </div>
-                            @else
-                                <em><strong>There are no Packages Recently</strong></em>
-                            @endif
-                            <div class="packages_carousel">
-                                @foreach($packages as $package)
-                                <div class="item">
-                                    <div class="single_as">
-                                        <div class="as_icon">
-                                            <i class="{{$package->icon}} icon_packages"></i>
-                                        </div>
-                                        <div class="service_text">
-                                            <h4><a href="#">{{$package->title}}</a></h4>
-                                            <p>{!! $package->description !!}</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                @endforeach
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Health Pacakges END -->
+                            @if ($key%4 ==0)
+                                </div>
+                                </li>
+                                <li>                
+                        <div class="row">
+                            @endif
+                        @endforeach
+                        </div>  
+                    </li>
+                   
+
+                </ul>
+            </div>          
+        </div>
+    </section>
         
