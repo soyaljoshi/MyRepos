@@ -8,7 +8,7 @@
                 </div>
                 <div class="footer_carousel">
                     <div class="review">
-                        <i>L</i><p><span>ifeline</span> is clean and modern responsive Template built with HTML5 & CSS3 coding and easy to use Shortcodes with load of features in it. We have implemented many features in this theme which makes your project easier and better than before and can be used for multipurpose. </p>
+                        <i>V</i><p><span>aRG</span> was established as an independent and private organization in 1986. It was with this firm conviction that Valley Research Group Private Limited (VaRG) was established by like-minded professional researchers to contribute to the developmental process of the country.</p>
                     </div>                      
                 </div>
             </div><!-- Reviews Widget -->
@@ -19,19 +19,19 @@
                 <ul class="contact-details">
                     <li>
                         <span><i class="icon-home"></i>ADDRESS</span>
-                        <p>#8901 Marmora Road Chi Minh City, Vietnam</p>
+                        <p>Jawalakhel, Lalitpur</p>
                     </li>
                     <li>
                         <span><i class="icon-phone-sign"></i>PHONE NO</span>
-                        <p>+00 035 835 282 / +00 034 965 353</p>
+                        <p>977-1-5523477</p>
+                    </li>
+                    <li>
+                        <span><i class="icon-envelope-alt"></i>FAX NO</span>
+                        <p>977-1-5528147</p>
                     </li>
                     <li>
                         <span><i class="icon-envelope-alt"></i>EMAIL ID</span>
-                        <p>#8901 Marmora Road Chi Minh City, Vietnam</p>
-                    </li>
-                    <li>
-                        <span><i class="icon-link"></i>WEB ADDRESS</span>
-                        <p>http://www.yourwebsite.com</p>
+                        <p>info@vargnepal.com</p>
                     </li>
                 </ul>
             </div><!-- Contact Us Widget -->
