@@ -5,15 +5,15 @@
         <ul>
             <li>
                 <i class="icon-home"></i>
-                425 Street Name, UK, London
+                Jawalakhel, Lalitpur
             </li>
             <li>
                 <i class="icon-phone"></i>
-                (123) 456-7890
+                977-1-5523477
             </li>
             <li>
                 <i class="icon-envelope"></i>
-                contact@companymail.com
+                info@vargnepal.com
             </li>
         </ul> 
         <div class="header-social">

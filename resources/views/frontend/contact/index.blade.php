@@ -21,23 +21,23 @@
       <div class="col-md-6">
         <div class="contact-info">
           <h3 class="sub-head">CONTACT INFORMATION</h3>
-          <iframe src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=australia&amp;aq=&amp;sll=-25.274398,133.775136&amp;sspn=41.490127,85.166016&amp;ie=UTF8&amp;hq=&amp;hnear=Australia&amp;t=m&amp;z=4&amp;ll=-25.274398,133.775136&amp;output=embed"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3533.5249094751453!2d85.30912031506124!3d27.670166982807306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjfCsDQwJzEyLjYiTiA4NcKwMTgnNDAuNyJF!5e0!3m2!1sen!2s!4v1488165273783" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
           <ul class="contact-details">
             <li>
               <span><i class="icon-home"></i>ADDRESS</span>
-              <p>#8901 Marmora Road Chi Minh City, Vietnam</p>
+              <p>Jawalakhel, Lalitpur</p>
             </li>
             <li>
               <span><i class="icon-phone-sign"></i>PHONE NO</span>
-              <p>+00 035 835 282 / +00 034 965 353</p>
+              <p>977-1-5523477</p>
             </li>
             <li>
               <span><i class="icon-envelope-alt"></i>EMAIL ID</span>
-              <p>#8901 Marmora Road Chi Minh City, Vietnam</p>
+              <p>info@vargnepal.com</p>
             </li>
             <li>
               <span><i class="icon-link"></i>WEB ADDRESS</span>
-              <p>http://www.yourwebsite.com</p>
+              <p>www.vargnepal.com</p>
             </li>
           </ul>
         </div>
