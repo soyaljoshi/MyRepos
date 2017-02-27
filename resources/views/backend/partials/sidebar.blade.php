@@ -7,7 +7,7 @@
                <span>{{ config('website.title') }}</span>
             </a>
             <a href="{{ route('admin::dashboard') }}" class="sSidebar_show">
-                <img src="{{ asset('assets/backend/img/logo_main_small.png') }}" alt="" height="32" width="32"/>
+                <img src="{{ asset('assets/frontend/images/vargnepal.png') }}" alt="" height="32" width="32"/>
             </a>
         </div>
     </div>
