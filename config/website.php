@@ -17,7 +17,7 @@ return [
     'description' => 'National Public health Laboratory (NPHL) is the government national reference laboratory under the Department of health services (DoHS) and Ministry of Health and Population (MoHP).',
     'author' => 'VaRG',
     'url' => 'www.vargnepal.com',
-    'adminLogo' => 'assets/backend/img/Nepal.png',
+    'adminLogo' => 'assets/frontend/images/vargnepal.png',
 
     /*
     |--------------------------------------------------------------------------
