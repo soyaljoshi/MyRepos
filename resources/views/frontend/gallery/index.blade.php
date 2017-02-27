@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 
-@section('title', 'NPHL | Photo Gallery')
+@section('title', 'VaRG | Photo Gallery')
 
 @section('header')
     {{ Html::style('assets/frontend/css/style.css')}}

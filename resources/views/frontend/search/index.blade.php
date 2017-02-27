@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 
-@section('title', 'NPHL | Search')
+@section('title', 'VaRG | Search')
 
 @section('header')
     {{ Html::style('assets/frontend/css/style.css')}}
