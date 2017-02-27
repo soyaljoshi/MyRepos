@@ -47,7 +47,7 @@
         <div class="form">
           <h3 class="sub-head">CONTACT US BY MESSAGE</h3>
           <p><em>Send us your queries and feedbacks </em><span>*</span></p>
-          <form method="post"  action="contact.php" name="contactform" id="contactform">
+          <form method="post"  action="#" name="contactform" id="contactform">
             <label for="name" accesskey="U">Full name <span>*</span></label>
             <input name="name" class="form-control input-field" type="text" id="name" size="30" value="" />
             <label for="email" accesskey="E">Email Address <span>*</span></label>

@@ -15,8 +15,8 @@
         <title>{{ config('website.title') }} - @yield('title')</title>
 
         <!-- Favicon -->
-        <link rel="icon" type="image/png" href="{{ asset('assets/frontend/img/nphlimg/Nepal.png') }}" sizes="16x16">
-        <link rel="icon" type="image/png" href="{{ asset('assets/frontend/img/nphlimg/Nepal.png') }}" sizes="32x32">
+        <link rel="icon" type="image/png" href="{{ asset('assets/frontend/images/vargnepal.png') }}" sizes="16x16">
+        <link rel="icon" type="image/png" href="{{ asset('assets/frontend/images/vargnepal.png') }}" sizes="32x32">
         
         <!-- additional styles for plugins -->
         @stack('styles')
