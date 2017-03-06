@@ -1,11 +1,11 @@
 @extends('backend.layout')
 
-@section('title', 'Technologies')
+@section('title', 'Recent Activities')
 
 @section('content')
      <div id="page_content">
         <div id="page_content_inner">
-            <h3 class="heading_b uk-margin-bottom">All Sections</h3>
+            <h3 class="heading_b uk-margin-bottom">All Recent Activities</h3>
 
             <div class="md-card">
                 <div class="md-card-content">
@@ -54,7 +54,7 @@
     </div>
 
     <div class="md-fab-wrapper">
-        <a class="md-fab md-fab-accent" href="{{ route('admin::populartest.create') }}" id="pageAdd" data-uk-tooltip="{pos:'left'}" title="Create Page">
+        <a class="md-fab md-fab-accent" href="{{ route('admin::populartest.create') }}" id="pageAdd" data-uk-tooltip="{pos:'left'}" title="Create Activities">
             <i class="material-icons">&#xE145;</i>
         </a>
     </div>

@@ -81,7 +81,7 @@
                 </div>
             </div>
         </div>
-
+<!-- 
        <div class="md-card">
                 <div class="md-card-content">
                     <h3 class="heading_a">Custom Design:</h3>
@@ -120,6 +120,6 @@
                         
                     </div>
                 </div>
-            </div>
+        </div> -->
     </div>
 </div>

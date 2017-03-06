@@ -8,7 +8,7 @@
                         <h3 class="heading_b uk-margin-bottom">
         
                             <div class="uk-float-right">
-                                <a href="{{ route('admin::packages.index') }}" class="md-btn md-btn-primary">All Packages</a>
+                                <a href="{{ route('admin::packages.index') }}" class="md-btn md-btn-primary">All Partners</a>
                             </div>
                         </h3>
                         <div class="uk-form-row">

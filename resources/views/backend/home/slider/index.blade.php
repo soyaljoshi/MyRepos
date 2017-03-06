@@ -10,7 +10,7 @@
 @section('content')
      <div id="page_content">
         <div id="page_content_inner">
-            <h3 class="heading_b uk-margin-bottom">All Sections</h3>
+            <h3 class="heading_b uk-margin-bottom">All Sliders</h3>
             <div class="md-card">
                 <div class="md-card-content">
                     <div class="uk-grid" data-uk-grid-margin>

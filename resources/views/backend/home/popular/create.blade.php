@@ -1,6 +1,6 @@
 @extends('backend.layout')
 
-@section('title', 'NPHL Technology')
+@section('title', 'Recent Activities')
 
 @push('styles')
 <link href="{{ asset('assets/plugins/kendo-ui/styles/kendo.common-material.min.css') }}" rel="stylesheet" type="text/css"/>
@@ -12,7 +12,7 @@
     <div id="page_content">
         <div id="page_content_inner">
             {{ Form::open([ 'route' => 'admin::populartest.store', 'class' => 'uk-form-stacked', 'id' => 'page_create_form', 'files'=>'true' ]) }}
-                @include('backend.home.popular.partials.form', [ 'title' => 'NPHL Technology' ])
+                @include('backend.home.popular.partials.form', [ 'title' => 'Recent Activities' ])
             {{ Form::close() }}
         </div>
     </div>

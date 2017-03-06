@@ -1,11 +1,11 @@
 @extends('backend.layout')
 
-@section('title', 'Packages')
+@section('title', 'Partners')
 
 @section('content')
     <div id="page_content">
         <div id="page_content_inner">
-            <h3 class="heading_b uk-margin-bottom">All Packages</h3>
+            <h3 class="heading_b uk-margin-bottom">All Partners</h3>
 
             <div class="md-card">
                 <div class="md-card-content">
@@ -34,10 +34,10 @@
                                                 </span>
                                             </td>
                                             <td class="uk-text-nowrap uk-text-center">
-                                                <a href="{{ route('admin::packages.edit', $package->id) }}" data-uk-tooltip="{pos:'left'}" title="Edit package">
+                                                <a href="{{ route('admin::packages.edit', $package->id) }}" data-uk-tooltip="{pos:'left'}" title="Edit partner">
                                                     <i class="material-icons md-24">&#xE254;</i>
                                                 </a>
-                                                <a class="item_delete" data-source="{{ route('admin::packages.destroy', $package->id) }}" data-uk-tooltip="{pos:'left'}" title="Delete package">
+                                                <a class="item_delete" data-source="{{ route('admin::packages.destroy', $package->id) }}" data-uk-tooltip="{pos:'left'}" title="Delete partner">
                                                     <i class="material-icons md-24">&#xE872;</i>
                                                 </a>
                                             </td>
@@ -54,7 +54,7 @@
     </div>
 
     <div class="md-fab-wrapper">
-        <a class="md-fab md-fab-accent" href="{{ route('admin::packages.create') }}" id="packageAdd" data-uk-tooltip="{pos:'left'}" title="Add Package">
+        <a class="md-fab md-fab-accent" href="{{ route('admin::packages.create') }}" id="packageAdd" data-uk-tooltip="{pos:'left'}" title="Add Partner">
             <i class="material-icons">&#xE145;</i>
         </a>
     </div>

@@ -80,7 +80,7 @@
                 </div>
             </div>
         </div>
-         <div class="md-card">
+ <!--         <div class="md-card">
                 <div class="md-card-content">
                     <h3 class="heading_a">Custom Design:</h3>
                     <div class="uk-grid" data-uk-grid-margin>
@@ -118,7 +118,7 @@
                         
                     </div>
                 </div>
-        </div>
+        </div> -->
         {{ Form::close() }}
         
     </div>

@@ -8,7 +8,7 @@
                         <h3 class="heading_b uk-margin-bottom">
                             {{ $title }}
                             <div class="uk-float-right">
-                                <a href="{{ route('admin::populartest.index') }}" class="md-btn md-btn-primary">All Technology</a>
+                                <a href="{{ route('admin::populartest.index') }}" class="md-btn md-btn-primary">All Recent Activities</a>
                                 
                             </div>
                         </h3>
