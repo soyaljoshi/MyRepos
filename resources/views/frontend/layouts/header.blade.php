@@ -9,7 +9,7 @@
             </li>
             <li>
                 <i class="icon-phone"></i>
-                +977-1-5523477
+                977-1-5523477
             </li>
             <li>
                 <i class="icon-envelope"></i>
@@ -75,7 +75,7 @@
         <div class="responsive-topbar-info">
             <ul>
                 <li><i class="fa fa-home"></i> Go to Home</li>
-                <li><i class="fa fa-phone"></i> +977-1-5523477</li>
+                <li><i class="fa fa-phone"></i> 977-1-5523477</li>
                 <li><i class="fa fa-envelope"></i> info@vargnepal.com</li>
             </ul>
             <div class="container">
