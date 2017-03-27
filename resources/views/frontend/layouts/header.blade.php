@@ -44,7 +44,7 @@
                             @if($menus->id == $submenu->parent_id)
                                 <li><a href="{{ $submenu->url }}">{{ $submenu->name }}</a>
                                     <ul style="display: block;">
-                                       @foreach ($menuManager->grandmenu()  as $keys => $grandsmenu)
+                                      <!--  @foreach ($menuManager->grandmenu()  as $keys => $grandsmenu)
                                         @foreach ($grandsmenu  as $keyss => $grandsubmenu)
                                           @if($submenu->id == $grandsubmenu->parent_id)
                                            <li>
@@ -55,7 +55,7 @@
                                              </li>
                                           @endif
                                         @endforeach
-                                      @endforeach
+                                      @endforeach -->
                                    </ul>
                                 </li>
                             @endif
@@ -153,9 +153,3 @@
       
     </div> 
 </div><!--Responsive header-->
-
-
-
-  
-
-
