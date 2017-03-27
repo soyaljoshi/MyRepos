@@ -43,7 +43,7 @@
                           @foreach ($smenu  as $keyss => $submenu)
                             @if($menus->id == $submenu->parent_id)
                                 <li><a href="{{ $submenu->url }}">{{ $submenu->name }}</a>
-                                    <ul class="sub_menu">
+                                    <!-- <ul class="sub_menu">
                                        @foreach ($menuManager->grandmenu()  as $keys => $grandsmenu)
                                         @foreach ($grandsmenu  as $keyss => $grandsubmenu)
                                           @if($submenu->id == $grandsubmenu->parent_id)
@@ -56,7 +56,7 @@
                                           @endif
                                         @endforeach
                                       @endforeach
-                                   </ul>
+                                   </ul> -->
                                 </li>
                             @endif
                           @endforeach
