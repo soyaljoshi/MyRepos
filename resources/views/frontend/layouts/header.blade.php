@@ -45,7 +45,6 @@
                                 <li><a href="{{ $submenu->url }}">{{ $submenu->name }}</a>
                                     
                                        @foreach ($menuManager->grandmenu()  as $keys => $grandsmenu)
-                                       {{dd($menuManager->grandmenu())}}
                                        <ul class="sub_menu">
                                         @foreach ($grandsmenu  as $keyss => $grandsubmenu)
                                           @if($submenu->id == $grandsubmenu->parent_id)
