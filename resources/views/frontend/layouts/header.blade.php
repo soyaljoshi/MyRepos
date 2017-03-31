@@ -33,41 +33,38 @@
         <div class="logo">
             <a href="#" title=""><img src="{{ asset('assets/frontend/images/vargnepal.png') }}" alt="Logo" /><h1><i>V</i>aRG</h1></a>
         </div><!-- Logo -->
-        <nav class="menu">  
-            <ul id="menu-navigation">
-                @foreach ($menuManager->mymenu() as $key => $menus)
-                @if($menus->parent_id === 0)
-                    <li @if( Request::path() ===  $menus->slug )class="active"@elseif(Request::path()=="/" && $key===0 )class="active" @endif><a href="{{ $menus->url }}">{{ $menus->name }}</a>
-                      <ul class="sub_menu">
-                        @foreach ($menuManager->submenu()   as $keys => $smenu)
-                          @foreach ($smenu  as $keyss => $submenu)
-                            @if($menus->id == $submenu->parent_id)
-                                <li><a href="{{ $submenu->url }}">{{ $submenu->name }}</a>
-                                    
-                                       @foreach ($menuManager->grandmenu()  as $keys => $grandsmenu)
-                                       <ul class="sub_menu">
-                                        @foreach ($grandsmenu  as $keyss => $grandsubmenu)
-                                          @if($submenu->id == $grandsubmenu->parent_id)
-                                           <li>
-                                              <a href="{{ $grandsubmenu->url}}">
-                                                {{ $grandsubmenu->name }}
-                                              </a>
-
-                                             </li>
-                                          @endif
-                                        @endforeach
-                                         </ul>
-                                      @endforeach
-                                  
-                                </li>
-                            @endif
-                          @endforeach
-                        @endforeach
-                       </ul>
-                    </li>
-                @endif 
-            @endforeach
-          </ul>
+        <nav class="menu"> 
+          <ul id="menu-navigation">
+              @foreach ($menuManager->mymenu() as $key => $menus)
+                <li @if( Request::path() ===  $menus->slug )class="active"@elseif(Request::path()=="/" && $key===0 )class="active" @endif><a href="{{ $menus->url }}">{{ $menus->name }}</a>
+                  <ul class="sub_menu">
+                    @foreach ($menuManager->submenu()   as $keys => $smenu)
+                      @foreach ($smenu  as $keyss => $submenu)
+                        @if($menus->id == $submenu->parent_id)
+                          <li><a href="{{ $submenu->url }}">{{ $submenu->name }}</a>
+                            @if ($menuManager->checkgrandChild($submenu->id))
+                              <ul class="sub_menu">
+                                @foreach ($menuManager->grandmenu()  as $keys => $grandsmenu)
+                                  @foreach ($grandsmenu  as $keyss => $grandsubmenu)
+                                    @if($submenu->id == $grandsubmenu->parent_id)
+                                      <li>      
+                                        <a href="{{ $grandsubmenu->url}}">
+                                          {{ $grandsubmenu->name }}
+                                        </a>
+                                      </li>
+                                    @endif
+                                  @endforeach
+                                @endforeach
+                              </ul> 
+                            @endif    
+                          </li>
+                        @endif
+                      @endforeach
+                    @endforeach
+                   </ul>
+                </li>
+              @endforeach
+          </ul> 
         </nav><!-- Menu -->
     </div>      
 </header><!--header-->
@@ -157,6 +154,6 @@
 </div><!--Responsive header-->
 
 
-  
+        
 
 
