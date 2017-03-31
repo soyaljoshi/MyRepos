@@ -98,58 +98,36 @@
     <div class="responsive-menu">
         <span class="close-btn"><i class="fa fa-close"></i></span>
         <ul>
-            @foreach ($menuManager->mymenu() as $key => $menus)
-              @if($menus->parent_id === 0)
-                <li @if( Request::path() ===  $menus->slug )class="has-dropdown"@elseif(Request::path()=="/" && $key===0 )class="has-dropdown" @endif>
-                    <a href="{{$menus->url}}" >{{$menus->name}}</a>     
-                    <ul>
-                    @foreach ($menuManager->submenu()  as $keys => $smenu)
-                        @foreach ($smenu  as $keyss => $submenu)
-                            @if($menus->id == $submenu->parent_id)
-                                <li class="has-dropdown"><a href="{{ $submenu->url }}">{{ $submenu->name }}</a></li>
-                            @endif
-                        @endforeach
-                    @endforeach
-                    </ul>     
-                </li>
-              @endif
-            @endforeach
-        </ul>  
-
-
-        <ul>
           @foreach ($menuManager->mymenu() as $key => $menus)
-            @if($menus->parent_id === 0)
-                <li @if( Request::path() ===  $menus->slug )class="active"@elseif(Request::path()=="/" && $key===0 )class="active" @endif><a href="{{ $menus->url }}">{{ $menus->name }}</a>
-                  <ul class="sub_menu">
-                    @foreach ($menuManager->submenu()   as $keys => $smenu)
-                      @foreach ($smenu  as $keyss => $submenu)
-                        @if($menus->id == $submenu->parent_id)
-                            <li><a href="{{ $submenu->url }}">{{ $submenu->name }}</a>
-                                <ul style="display: block;">
-                                   @foreach ($menuManager->grandmenu()  as $keys => $grandsmenu)
-                                    @foreach ($grandsmenu  as $keyss => $grandsubmenu)
-                                      @if($submenu->id == $grandsubmenu->parent_id)
-                                        <li>
-                                          <a href="{{ $grandsubmenu->url}}">
-                                            {{ $grandsubmenu->name }}
-                                          </a>
-                                        </li>
-                                      @endif
-                                    @endforeach
-                                  @endforeach
-                               </ul>
-                            </li>
-                        @endif
-                      @endforeach
+              <li @if( Request::path() ===  $menus->slug )class="active"@elseif(Request::path()=="/" && $key===0 )class="active" @endif><a href="{{ $menus->url }}">{{ $menus->name }}</a>
+                <ul class="sub_menu">
+                  @foreach ($menuManager->submenu()   as $keys => $smenu)
+                    @foreach ($smenu  as $keyss => $submenu)
+                      @if($menus->id == $submenu->parent_id)
+                        <li><a href="{{ $submenu->url }}">{{ $submenu->name }}</a>
+                          @if ($menuManager->checkgrandChild($submenu->id))
+                            <ul class="sub_menu">
+                              @foreach ($menuManager->grandmenu()  as $keys => $grandsmenu)
+                                @foreach ($grandsmenu  as $keyss => $grandsubmenu)
+                                  @if($submenu->id == $grandsubmenu->parent_id)
+                                    <li>      
+                                      <a href="{{ $grandsubmenu->url}}">
+                                        {{ $grandsubmenu->name }}
+                                      </a>
+                                    </li>
+                                  @endif
+                                @endforeach
+                              @endforeach
+                            </ul> 
+                          @endif    
+                        </li>
+                      @endif
                     @endforeach
-                   </ul>
-                </li>
-            @endif 
-          @endforeach
-        </ul>
-                  
-      
+                  @endforeach
+                 </ul>
+              </li>
+            @endforeach
+        </ul> 
     </div> 
 </div><!--Responsive header-->
 
