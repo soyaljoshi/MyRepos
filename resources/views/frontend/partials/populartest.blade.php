@@ -9,14 +9,14 @@
           <ul class="slides">
             <li>
               <div class="row">
-                @foreach ($test as $key => $post)
+                @foreach ($post->getPost(4)as $key => $post)
                   <div class="col-md-4">
                     <div class="single-mission">
                       <div class="mission-img">
                         <a href="#" title="">
-                          @if(count($images->getImage('Populartest',$post->id)) > 0 )
+                          @if(count($images->getImage('Post',$post->id)) > 0 )
                             @foreach($image as $images)
-                              @if($images->imageable_type === 'Populartest' && $images->imageable_id == $post->id )
+                              @if($images->imageable_type === 'Post' && $images->imageable_id == $post->id )
                                 <img class="home_popular" src="{{ asset($images->thumbnail(370,196)) }}" alt="">
                               @endif
                             @endforeach                                            
@@ -29,7 +29,7 @@
                       <p>{{ $post->description }}</p>
                     </div>
                   </div>
-                  @if ($key%3 == 0)
+                  @if ($key+1%3 == 0)
                   </div>
                   </li>
                   <li>
