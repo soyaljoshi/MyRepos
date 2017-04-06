@@ -9,7 +9,6 @@
                     <li>                
                         <div class="row">
                         @foreach($packages as $key => $package+1)
-                        {!!$key++!!}
                             <div class="col-md-3">
                                 <div class="service">
                                 @if(count($images->getImage('Package',$package->id)) > 0 )
@@ -25,7 +24,7 @@
                                     <h4><span>{{$package->title}}</span></h4>
                                 </div>
                             </div>
-                            @if ($key%4 ==0)
+                            @if (($key+1)%4 ==0)
                                 </div>
                                 </li>
                                 <li>                
