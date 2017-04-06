@@ -23,7 +23,7 @@
                                 {{ Form::text( 'slug', old('slug'), [ 'id' => 'customer_name', 'class' => 'md-input', 'required' ] ) }}
                              </div>
                         </div>
-                        <div class="uk-width-1-1">
+                  <!--       <div class="uk-width-1-1">
                             <label for="icon" class="uk-form-label">Icon</label>
                             <div class="class="uk-width-6-10"" style="width: 78% !important;display: inline-block;">
                             <select name="icon" id="icon" class="selectpicker" multiple style="text-transform: capitalize;" >
@@ -40,7 +40,7 @@
                             <div class="uk-width-2-10 icon-block" style="float: right;display: inline-block;">
                             <i id="icon-display" class= @if(isset($package))"{{$package->icon}}" @endif></i>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

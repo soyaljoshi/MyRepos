@@ -24,8 +24,7 @@ class PackageCreateRequest extends Request
         return [
             'title'        => 'required',
             'description'      => 'required',
-            'slug'  =>'required',
-            'icon'  =>'required'
+            'slug'  =>'required'
 
         ];
     }
