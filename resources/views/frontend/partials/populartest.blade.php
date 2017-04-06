@@ -9,7 +9,7 @@
           <ul class="slides">
             <li>
               <div class="row">
-                @foreach ($post->getPost(4)as $key => $post)
+                @foreach ($test as $key => $post)
                   <div class="col-md-4">
                     <div class="single-mission">
                       <div class="mission-img">
