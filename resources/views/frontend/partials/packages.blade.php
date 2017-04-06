@@ -33,8 +33,6 @@
                         @endforeach
                         </div>  
                     </li>
-                   
-
                 </ul>
             </div>          
         </div>
