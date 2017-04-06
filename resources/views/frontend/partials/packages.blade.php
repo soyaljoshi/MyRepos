@@ -8,7 +8,7 @@
                 <ul class="slides">
                     <li>                
                         <div class="row">
-                        @foreach($packages as $key => $package+1)
+                        @foreach($packages as $key => $package)
                             <div class="col-md-3">
                                 <div class="service">
                                 @if(count($images->getImage('Package',$package->id)) > 0 )
