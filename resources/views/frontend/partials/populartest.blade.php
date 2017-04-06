@@ -26,7 +26,7 @@
                         </a>
                       </div>
                       <h3><a href="#" title="">{{ $post->title }}</a></h3>
-                      <p>{!! $post->content_html !!}</p>
+                      <p>{{ $post->meta_description }}</p>
                     </div>
                   </div>
                   @if ($key+1%3 == 0)
