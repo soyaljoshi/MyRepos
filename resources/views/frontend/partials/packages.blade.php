@@ -22,7 +22,7 @@
                                       <img src="{{ asset('assets/frontend/images/blank-image.jpg') }}" alt="" />
                                 @endif
                                     
-                                    <h4><span>{{$package->title}} | {{$key}}</span></h4>
+                                    <h4><span>{{$package->title}}</span></h4>
                                 </div>
                             </div>
                             @if ($key%4 ==0)
