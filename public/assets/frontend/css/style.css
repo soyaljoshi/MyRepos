@@ -7139,7 +7139,8 @@ h5.slide3 span{
 /*** STICKY MENU ***/
 .stick {
     position: fixed!important;
-    top: 0!important;
+    /*top: 0!important;*/
+    margin-top: 0px!important;
     left: 0!important;    
 	z-index:10000!important;
 
