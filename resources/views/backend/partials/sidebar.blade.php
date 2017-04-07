@@ -32,9 +32,9 @@
                     <li>
                         <a href="{{ route('admin::homesectionsetting.index') }}">Section Setting</a>
                     </li>
-                    <li>
+                   <!--  <li>
                         <a href="{{ route('admin::populartest.index') }}">Recent Research Setting</a>
-                    </li>
+                    </li> -->
                 </ul>
             </li>
          
