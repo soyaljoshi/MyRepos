@@ -10,7 +10,7 @@
 @section('body')
 
 <div class="top-image">
-  <img src="{{ asset('assets/frontend/images/single-page-top3.jpg') }}" alt="" />
+  <img src="{{ asset('assets/frontend/images/pageheader.png') }}" alt="" />
 </div><!-- Page Top Image -->
   
 <section class="inner-page">
