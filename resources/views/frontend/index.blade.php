@@ -14,7 +14,7 @@
     {{-- Recent Research End --}}
 
     {{-- Recent Partners begin --}}
-    @include('frontend.partials.packages')
+    {{--@include('frontend.partials.packages')--}}
     {{-- Recent Partners End --}}
 
     {{-- Recent news begin --}}
