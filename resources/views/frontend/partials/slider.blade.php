@@ -39,7 +39,7 @@
         </div><!-- Slide2 -->
                             @elseif($key == 3)
                             <div class="ls-slide" data-ls="transition3d:35;timeshift:-1000;">           
-            <img src="src="{{ asset($images->path) }}"  class="ls-bg" alt="Slide background">
+            <img src="{{ asset($images->path) }}"  class="ls-bg" alt="Slide background">
                 <h3 class="ls-l" style="top: 160px; left:160px; font-family:roboto; font-size:72px; font-weight:bold; color:#fff; line-height:60px; text-align:center;" data-ls="offsetxin:0;offsetyin:top;durationin:1500;delayin:1000;easingin:easeInOutQuart;fadein:false;scalexin:0;scaleyin:0;offsetxout:0;offsetyout:top;durationout:1000;fadeout:false;" ><span>{{ $sliders->title }}</span></h3>
                 
                 <span class="ls-l slide3-subtitle" style="top: 248px; left:160px; padding:13px; border-radius:3px; color:#fff; font-family:open sans; font-weight:900; font-size:26px; text-transform:uppercase; line-height:20px;" data-ls="offsetxin:0;offsetyin:bottom;durationin:1500;delayin:1200;easingin:easeInOutQuart;fadein:false;scalexin:0;scaleyin:0;offsetxout:0;offsetyout:top;durationout:1000;fadeout:false;"> <i style="font-style:normal; color:#373737;">{{$sliders->caption}}</i></span>
