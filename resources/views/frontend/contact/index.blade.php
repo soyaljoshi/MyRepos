@@ -33,7 +33,7 @@
             </li>
             <li>
               <span><i class="icon-envelope-alt"></i>EMAIL ID</span>
-              <p>info@vargnepal.com</p>
+              <p>varg@wlink.com.np</p>
             </li>
             <li>
               <span><i class="icon-link"></i>WEB ADDRESS</span>
