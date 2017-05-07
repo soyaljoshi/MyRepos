@@ -31,7 +31,7 @@
                     </li>
                     <li>
                         <span><i class="icon-envelope-alt"></i>EMAIL ID</span>
-                        <p>info@vargnepal.com</p>
+                        <p>varg@wlink.com.np</p>
                     </li>
                 </ul>
             </div><!-- Contact Us Widget -->
@@ -70,6 +70,6 @@
 
 <div class="footer-bottom">
     <div class="container ">
-        <div class="col-sm-4 col-sm-offset-5 text-left"><p>Copyright © 2017 VaRG. <span>All rights reserved.</span> </p><div>x  
+        <div class="col-sm-4 col-sm-offset-5 text-left"><p>Copyright © 2017 VaRG. <span>All rights reserved.</span> </p></div>
     </div>
 </div><!-- Bottom Footer Strip -->
