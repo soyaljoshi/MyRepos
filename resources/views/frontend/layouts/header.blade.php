@@ -13,7 +13,7 @@
             </li>
             <li>
                 <i class="icon-envelope"></i>
-                info@vargnepal.com
+                varg@wlink.com.np
             </li>
         </ul> 
         <div class="header-social">
@@ -75,7 +75,7 @@
             <ul>
                 <li><i class="fa fa-home"></i> Go to Home</li>
                 <li><i class="fa fa-phone"></i> 977-1-5523477</li>
-                <li><i class="fa fa-envelope"></i> info@vargnepal.com</li>
+                <li><i class="fa fa-envelope"></i> varg@wlink.com.np</li>
             </ul>
             <div class="container">
                 <div class="responsive-socialbtns">
